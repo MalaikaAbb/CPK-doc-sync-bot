@@ -1,0 +1,350 @@
+[
+ {
+  "section": "Getting Started",
+  "folder": "",
+  "title": "Mastra",
+  "url": "/mastra"
+ },
+ {
+  "section": "Getting Started",
+  "folder": "",
+  "title": "Quickstart",
+  "url": "/mastra/quickstart"
+ },
+ {
+  "section": "Getting Started",
+  "folder": "",
+  "title": "Build With Agents",
+  "url": "/mastra/build-with-agents"
+ },
+ {
+  "section": "Getting Started",
+  "folder": "",
+  "title": "Overview",
+  "url": "/mastra/intelligence/overview"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat",
+  "title": "Prebuilt Components",
+  "url": "/mastra/prebuilt-components"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Custom Look and Feel",
+  "title": "Slots",
+  "url": "/mastra/custom-look-and-feel/slots"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Custom Look and Feel",
+  "title": "Headless UI",
+  "url": "/mastra/custom-look-and-feel/headless-ui"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat",
+  "title": "Programmatic Control",
+  "url": "/mastra/programmatic-control"
+ },
+ {
+  "section": "Basics",
+  "folder": "Threads",
+  "title": "Threads Drawer",
+  "url": "/mastra/prebuilt-components/copilot-threads-drawer"
+ },
+ {
+  "section": "Basics",
+  "folder": "",
+  "title": "Frontend-tools",
+  "url": "/mastra/frontend-tools"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Controlled",
+  "title": "Tool Call Rendering",
+  "url": "/mastra/generative-ui/tool-rendering"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Controlled",
+  "title": "State Rendering",
+  "url": "/mastra/generative-ui/state-rendering"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/A2UI",
+  "title": "Dynamic Schema A2UI",
+  "url": "/mastra/generative-ui/a2ui/dynamic-schema"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/A2UI",
+  "title": "Fixed Schema A2UI",
+  "url": "/mastra/generative-ui/a2ui/fixed-schema"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Open-ended",
+  "title": "Open Generative UI",
+  "url": "/mastra/generative-ui/open-generative-ui"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Shared state",
+  "title": "Reading agent state",
+  "url": "/mastra/shared-state/in-app-agent-read"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Shared state",
+  "title": "Writing agent state",
+  "url": "/mastra/shared-state/in-app-agent-write"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Shared state",
+  "title": "State streaming",
+  "url": "/mastra/shared-state/predictive-state-updates"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Human-in-the-loop",
+  "title": "Pausing the Agent for Input",
+  "url": "/mastra/human-in-the-loop/useInterrupt"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Human-in-the-loop",
+  "title": "Headless Interrupts",
+  "url": "/mastra/human-in-the-loop/headless"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Human-in-the-loop",
+  "title": "Governed Action Approval UI",
+  "url": "/mastra/human-in-the-loop/governed-actions"
+ },
+ {
+  "section": "Agent capabilities",
+  "folder": "Mastra",
+  "title": "Background Tasks",
+  "url": "/mastra/background-tasks"
+ },
+ {
+  "section": "Agent capabilities",
+  "folder": "",
+  "title": "Sub-agents",
+  "url": "/mastra/multi-agent/subagents"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Get started",
+  "title": "Quickstart",
+  "url": "/mastra/intelligence/quickstart"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Get started",
+  "title": "Architecture",
+  "url": "/mastra/intelligence/intelligence-platform"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Get started",
+  "title": "Plans",
+  "url": "/mastra/intelligence/plans"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/AG-UI Streams",
+  "title": "Overview",
+  "url": "/mastra/AG-UI-Streams"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/AG-UI Streams",
+  "title": "Bring your own thread system",
+  "url": "/mastra/intelligence/bring-your-own-thread-system"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/AG-UI Streams",
+  "title": "Add to Existing Threads",
+  "url": "/mastra/threads-import"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/AG-UI Streams",
+  "title": "Thread & History Lifecycle",
+  "url": "/mastra/threads-lifecycle"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/AG-UI Streams",
+  "title": "Streams & Framework Threads",
+  "url": "/mastra/intelligence/threads-explained"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Automatic Learning",
+  "title": "Automatic Learning",
+  "url": "/mastra/learning"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Automatic Learning",
+  "title": "Skill delivery",
+  "url": "/mastra/intelligence/learned-skills"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features",
+  "title": "User Memories",
+  "url": "/mastra/intelligence/memories"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Trajectories",
+  "title": "Overview",
+  "url": "/mastra/intelligence/trajectories"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Trajectories",
+  "title": "Quickstart",
+  "url": "/mastra/intelligence/trajectories-quickstart"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Trajectories",
+  "title": "Capture interactions",
+  "url": "/mastra/intelligence/capture-interactions"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Trajectories",
+  "title": "Captured data",
+  "url": "/mastra/intelligence/captured-data"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Trajectories",
+  "title": "API reference",
+  "url": "/mastra/intelligence/trajectories-reference"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features",
+  "title": "Standalone collector",
+  "url": "/mastra/intelligence/standalone-collector"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features",
+  "title": "Product Analytics",
+  "url": "/mastra/intelligence/analytics"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features",
+  "title": "Channels",
+  "url": "/mastra/intelligence/channels"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Hosting",
+  "title": "Cloud-hosted",
+  "url": "/mastra/intelligence/managed-intelligence-platform"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Hosting",
+  "title": "Self-hosted",
+  "url": "/mastra/intelligence/self-hosting"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Hosting",
+  "title": "AWS ECS/Fargate",
+  "url": "/mastra/intelligence/self-hosting-ecs"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Hosting",
+  "title": "Local evaluation",
+  "url": "/mastra/intelligence/self-hosting-local"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "Copilot Runtime",
+  "url": "/mastra/copilot-runtime"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "AG-UI",
+  "url": "/mastra/ag-ui"
+ },
+ {
+  "section": "Backend",
+  "folder": "Debugging",
+  "title": "Inspector",
+  "url": "/mastra/inspector"
+ },
+ {
+  "section": "Other",
+  "folder": "Contributing",
+  "title": "Code Contributions",
+  "url": "/mastra/contributing/code-contributions"
+ },
+ {
+  "section": "Other",
+  "folder": "Contributing",
+  "title": "Documentation Contributions",
+  "url": "/mastra/contributing/docs-contributions"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting",
+  "title": "Migrate to V2",
+  "url": "/mastra/troubleshooting/migrate-to-v2"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting",
+  "title": "Error Debugging & Observability",
+  "url": "/mastra/troubleshooting/error-debugging"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting",
+  "title": "Common Copilot Issues",
+  "url": "/mastra/troubleshooting/common-issues"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting",
+  "title": "Migrate to 1.10.X",
+  "url": "/mastra/troubleshooting/migrate-to-1.10.X"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting",
+  "title": "Migrate to 1.8.2",
+  "url": "/mastra/troubleshooting/migrate-to-1.8.2"
+ },
+ {
+  "section": "Other",
+  "folder": "",
+  "title": "Open-source telemetry",
+  "url": "/mastra/telemetry"
+ },
+ {
+  "section": "Other",
+  "folder": "",
+  "title": "Community frameworks",
+  "url": "/mastra/community-frameworks"
+ }
+]

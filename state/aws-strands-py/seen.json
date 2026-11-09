@@ -1,0 +1,8 @@
+{
+ "pages": {
+  "/strands/copilot-runtime": "f2ac6be857fbdeac51798b4fe99de4e48d58e6b1f382d91c3ee423b344b50b04",
+  "/strands/generative-ui/open-generative-ui": "de25e8cfbae80805a92fea14a5644cc299cd1e96286d72f07d5d2313e1f0ce48",
+  "/strands/prebuilt-components/chat-controls": "ce69beeb4db1545021f20b76d34e89ae144752cf537a027618fa957cdf16f14b",
+  "/strands/voice": "638cfb1badae3cf892794ec820e9e1143b0f112dc0e313225736846e93a89015"
+ }
+}

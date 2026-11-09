@@ -1,0 +1,350 @@
+[
+ {
+  "section": "Getting Started",
+  "folder": "",
+  "title": "Pydantic Ai",
+  "url": "/pydantic-ai"
+ },
+ {
+  "section": "Getting Started",
+  "folder": "",
+  "title": "Quickstart",
+  "url": "/pydantic-ai/quickstart"
+ },
+ {
+  "section": "Getting Started",
+  "folder": "",
+  "title": "Build With Agents",
+  "url": "/pydantic-ai/build-with-agents"
+ },
+ {
+  "section": "Getting Started",
+  "folder": "",
+  "title": "Overview",
+  "url": "/pydantic-ai/intelligence/overview"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat",
+  "title": "Prebuilt Components",
+  "url": "/pydantic-ai/prebuilt-components"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Custom Look and Feel",
+  "title": "Slots",
+  "url": "/pydantic-ai/custom-look-and-feel/slots"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Custom Look and Feel",
+  "title": "Headless UI",
+  "url": "/pydantic-ai/custom-look-and-feel/headless-ui"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat",
+  "title": "Programmatic Control",
+  "url": "/pydantic-ai/programmatic-control"
+ },
+ {
+  "section": "Basics",
+  "folder": "Threads",
+  "title": "Threads Drawer",
+  "url": "/pydantic-ai/prebuilt-components/copilot-threads-drawer"
+ },
+ {
+  "section": "Basics",
+  "folder": "Threads",
+  "title": "Headless Threads",
+  "url": "/pydantic-ai/headless-threads"
+ },
+ {
+  "section": "Basics",
+  "folder": "",
+  "title": "Frontend-tools",
+  "url": "/pydantic-ai/frontend-tools"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Controlled",
+  "title": "Tool Call Rendering",
+  "url": "/pydantic-ai/generative-ui/tool-rendering"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Controlled",
+  "title": "State Rendering",
+  "url": "/pydantic-ai/generative-ui/state-rendering"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/A2UI",
+  "title": "Dynamic Schema A2UI",
+  "url": "/pydantic-ai/generative-ui/a2ui/dynamic-schema"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/A2UI",
+  "title": "Fixed Schema A2UI",
+  "url": "/pydantic-ai/generative-ui/a2ui/fixed-schema"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative",
+  "title": "JSON Render",
+  "url": "/pydantic-ai/generative-ui/json-render"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative",
+  "title": "Hashbrown",
+  "url": "/pydantic-ai/generative-ui/hashbrown"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Open-ended",
+  "title": "Open Generative UI",
+  "url": "/pydantic-ai/generative-ui/open-generative-ui"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Shared state",
+  "title": "Reading agent state",
+  "url": "/pydantic-ai/shared-state/in-app-agent-read"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Shared state",
+  "title": "Writing agent state",
+  "url": "/pydantic-ai/shared-state/in-app-agent-write"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Human-in-the-loop",
+  "title": "Governed Action Approval UI",
+  "url": "/pydantic-ai/human-in-the-loop/governed-actions"
+ },
+ {
+  "section": "Agent capabilities",
+  "folder": "Pydantic AI",
+  "title": "Multi-Agent Flows",
+  "url": "/pydantic-ai/multi-agent-flows"
+ },
+ {
+  "section": "Agent capabilities",
+  "folder": "",
+  "title": "Sub-agents",
+  "url": "/pydantic-ai/multi-agent/subagents"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Get started",
+  "title": "Quickstart",
+  "url": "/pydantic-ai/intelligence/quickstart"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Get started",
+  "title": "Architecture",
+  "url": "/pydantic-ai/intelligence/intelligence-platform"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Get started",
+  "title": "Plans",
+  "url": "/pydantic-ai/intelligence/plans"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/AG-UI Streams",
+  "title": "Overview",
+  "url": "/pydantic-ai/AG-UI-Streams"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/AG-UI Streams",
+  "title": "Bring your own thread system",
+  "url": "/pydantic-ai/intelligence/bring-your-own-thread-system"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/AG-UI Streams",
+  "title": "Add to Existing Threads",
+  "url": "/pydantic-ai/threads-import"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/AG-UI Streams",
+  "title": "Thread & History Lifecycle",
+  "url": "/pydantic-ai/threads-lifecycle"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/AG-UI Streams",
+  "title": "Streams & Framework Threads",
+  "url": "/pydantic-ai/intelligence/threads-explained"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Automatic Learning",
+  "title": "Automatic Learning",
+  "url": "/pydantic-ai/learning"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Automatic Learning",
+  "title": "Skill delivery",
+  "url": "/pydantic-ai/intelligence/learned-skills"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features",
+  "title": "User Memories",
+  "url": "/pydantic-ai/intelligence/memories"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Trajectories",
+  "title": "Overview",
+  "url": "/pydantic-ai/intelligence/trajectories"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Trajectories",
+  "title": "Quickstart",
+  "url": "/pydantic-ai/intelligence/trajectories-quickstart"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Trajectories",
+  "title": "Capture interactions",
+  "url": "/pydantic-ai/intelligence/capture-interactions"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Trajectories",
+  "title": "Captured data",
+  "url": "/pydantic-ai/intelligence/captured-data"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Trajectories",
+  "title": "API reference",
+  "url": "/pydantic-ai/intelligence/trajectories-reference"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features",
+  "title": "Standalone collector",
+  "url": "/pydantic-ai/intelligence/standalone-collector"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features",
+  "title": "Product Analytics",
+  "url": "/pydantic-ai/intelligence/analytics"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features",
+  "title": "Channels",
+  "url": "/pydantic-ai/intelligence/channels"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Hosting",
+  "title": "Cloud-hosted",
+  "url": "/pydantic-ai/intelligence/managed-intelligence-platform"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Hosting",
+  "title": "Self-hosted",
+  "url": "/pydantic-ai/intelligence/self-hosting"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Hosting",
+  "title": "AWS ECS/Fargate",
+  "url": "/pydantic-ai/intelligence/self-hosting-ecs"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Hosting",
+  "title": "Local evaluation",
+  "url": "/pydantic-ai/intelligence/self-hosting-local"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "Copilot Runtime",
+  "url": "/pydantic-ai/copilot-runtime"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "AG-UI",
+  "url": "/pydantic-ai/ag-ui"
+ },
+ {
+  "section": "Backend",
+  "folder": "Debugging",
+  "title": "Inspector",
+  "url": "/pydantic-ai/inspector"
+ },
+ {
+  "section": "Other",
+  "folder": "Contributing",
+  "title": "Code Contributions",
+  "url": "/pydantic-ai/contributing/code-contributions"
+ },
+ {
+  "section": "Other",
+  "folder": "Contributing",
+  "title": "Documentation Contributions",
+  "url": "/pydantic-ai/contributing/docs-contributions"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting",
+  "title": "Migrate to V2",
+  "url": "/pydantic-ai/troubleshooting/migrate-to-v2"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting",
+  "title": "Error Debugging & Observability",
+  "url": "/pydantic-ai/troubleshooting/error-debugging"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting",
+  "title": "Common Copilot Issues",
+  "url": "/pydantic-ai/troubleshooting/common-issues"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting",
+  "title": "Migrate to 1.10.X",
+  "url": "/pydantic-ai/troubleshooting/migrate-to-1.10.X"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting",
+  "title": "Migrate to 1.8.2",
+  "url": "/pydantic-ai/troubleshooting/migrate-to-1.8.2"
+ },
+ {
+  "section": "Other",
+  "folder": "",
+  "title": "Open-source telemetry",
+  "url": "/pydantic-ai/telemetry"
+ },
+ {
+  "section": "Other",
+  "folder": "",
+  "title": "Community frameworks",
+  "url": "/pydantic-ai/community-frameworks"
+ }
+]

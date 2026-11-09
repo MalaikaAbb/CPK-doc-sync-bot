@@ -1,0 +1,338 @@
+[
+ {
+  "section": "Getting Started",
+  "folder": "",
+  "title": "Ms Agent Python",
+  "url": "/ms-agent-python"
+ },
+ {
+  "section": "Getting Started",
+  "folder": "",
+  "title": "Quickstart",
+  "url": "/ms-agent-python/quickstart"
+ },
+ {
+  "section": "Getting Started",
+  "folder": "",
+  "title": "Build With Agents",
+  "url": "/ms-agent-python/build-with-agents"
+ },
+ {
+  "section": "Getting Started",
+  "folder": "",
+  "title": "Overview",
+  "url": "/ms-agent-python/intelligence/overview"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat",
+  "title": "Prebuilt Components",
+  "url": "/ms-agent-python/prebuilt-components"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Custom Look and Feel",
+  "title": "Slots",
+  "url": "/ms-agent-python/custom-look-and-feel/slots"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Custom Look and Feel",
+  "title": "Headless UI",
+  "url": "/ms-agent-python/custom-look-and-feel/headless-ui"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat",
+  "title": "Programmatic Control",
+  "url": "/ms-agent-python/programmatic-control"
+ },
+ {
+  "section": "Basics",
+  "folder": "Threads",
+  "title": "Threads Drawer",
+  "url": "/ms-agent-python/prebuilt-components/copilot-threads-drawer"
+ },
+ {
+  "section": "Basics",
+  "folder": "Threads",
+  "title": "Headless Threads",
+  "url": "/ms-agent-python/headless-threads"
+ },
+ {
+  "section": "Basics",
+  "folder": "",
+  "title": "Frontend-tools",
+  "url": "/ms-agent-python/frontend-tools"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Controlled",
+  "title": "Components as Tools",
+  "url": "/ms-agent-python/generative-ui/tool-based"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Controlled",
+  "title": "Tool Call Rendering",
+  "url": "/ms-agent-python/generative-ui/tool-rendering"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Controlled",
+  "title": "State Rendering",
+  "url": "/ms-agent-python/generative-ui/state-rendering"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/A2UI",
+  "title": "Dynamic Schema A2UI",
+  "url": "/ms-agent-python/generative-ui/a2ui/dynamic-schema"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/A2UI",
+  "title": "Fixed Schema A2UI",
+  "url": "/ms-agent-python/generative-ui/a2ui/fixed-schema"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative",
+  "title": "JSON Render",
+  "url": "/ms-agent-python/generative-ui/json-render"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative",
+  "title": "Hashbrown",
+  "url": "/ms-agent-python/generative-ui/hashbrown"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Open-ended",
+  "title": "Open Generative UI",
+  "url": "/ms-agent-python/generative-ui/open-generative-ui"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Shared state",
+  "title": "Reading agent state",
+  "url": "/ms-agent-python/shared-state/in-app-agent-read"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Shared state",
+  "title": "Writing agent state",
+  "url": "/ms-agent-python/shared-state/in-app-agent-write"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Human-in-the-loop",
+  "title": "Governed Action Approval UI",
+  "url": "/ms-agent-python/human-in-the-loop/governed-actions"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "",
+  "title": "WebMCP",
+  "url": "/ms-agent-python/webmcp"
+ },
+ {
+  "section": "Agent capabilities",
+  "folder": "Microsoft Agent Framework",
+  "title": "Authentication",
+  "url": "/ms-agent-python/auth"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Get started",
+  "title": "Quickstart",
+  "url": "/ms-agent-python/intelligence/quickstart"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Get started",
+  "title": "Architecture",
+  "url": "/ms-agent-python/intelligence/intelligence-platform"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Get started",
+  "title": "Plans",
+  "url": "/ms-agent-python/intelligence/plans"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/AG-UI Streams",
+  "title": "Overview",
+  "url": "/ms-agent-python/AG-UI-Streams"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/AG-UI Streams",
+  "title": "Bring your own thread system",
+  "url": "/ms-agent-python/intelligence/bring-your-own-thread-system"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/AG-UI Streams",
+  "title": "Add to Existing Threads",
+  "url": "/ms-agent-python/threads-import"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/AG-UI Streams",
+  "title": "Thread & History Lifecycle",
+  "url": "/ms-agent-python/threads-lifecycle"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/AG-UI Streams",
+  "title": "Streams & Framework Threads",
+  "url": "/ms-agent-python/intelligence/threads-explained"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Automatic Learning",
+  "title": "Automatic Learning",
+  "url": "/ms-agent-python/learning"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Automatic Learning",
+  "title": "Skill delivery",
+  "url": "/ms-agent-python/intelligence/learned-skills"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features",
+  "title": "User Memories",
+  "url": "/ms-agent-python/intelligence/memories"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Trajectories",
+  "title": "Overview",
+  "url": "/ms-agent-python/intelligence/trajectories"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Trajectories",
+  "title": "Quickstart",
+  "url": "/ms-agent-python/intelligence/trajectories-quickstart"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Trajectories",
+  "title": "Capture interactions",
+  "url": "/ms-agent-python/intelligence/capture-interactions"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Trajectories",
+  "title": "Captured data",
+  "url": "/ms-agent-python/intelligence/captured-data"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Trajectories",
+  "title": "API reference",
+  "url": "/ms-agent-python/intelligence/trajectories-reference"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features",
+  "title": "Standalone collector",
+  "url": "/ms-agent-python/intelligence/standalone-collector"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features",
+  "title": "Product Analytics",
+  "url": "/ms-agent-python/intelligence/analytics"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features",
+  "title": "Channels",
+  "url": "/ms-agent-python/intelligence/channels"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Hosting",
+  "title": "Cloud-hosted",
+  "url": "/ms-agent-python/intelligence/managed-intelligence-platform"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Hosting",
+  "title": "Self-hosted",
+  "url": "/ms-agent-python/intelligence/self-hosting"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Hosting",
+  "title": "AWS ECS/Fargate",
+  "url": "/ms-agent-python/intelligence/self-hosting-ecs"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Hosting",
+  "title": "Local evaluation",
+  "url": "/ms-agent-python/intelligence/self-hosting-local"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "Copilot Runtime",
+  "url": "/ms-agent-python/copilot-runtime"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "AG-UI",
+  "url": "/ms-agent-python/ag-ui"
+ },
+ {
+  "section": "Backend",
+  "folder": "Debugging",
+  "title": "Inspector",
+  "url": "/ms-agent-python/inspector"
+ },
+ {
+  "section": "Other",
+  "folder": "Contributing",
+  "title": "Code Contributions",
+  "url": "/ms-agent-python/contributing/code-contributions"
+ },
+ {
+  "section": "Other",
+  "folder": "Contributing",
+  "title": "Documentation Contributions",
+  "url": "/ms-agent-python/contributing/docs-contributions"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting/Troubleshooting Copilots",
+  "title": "Migrate to V2",
+  "url": "/ms-agent-python/troubleshooting/migrate-to-v2"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting/Troubleshooting Copilots",
+  "title": "Common Copilot Issues",
+  "url": "/ms-agent-python/troubleshooting/common-issues"
+ },
+ {
+  "section": "Other",
+  "folder": "",
+  "title": "Open-source telemetry",
+  "url": "/ms-agent-python/telemetry"
+ },
+ {
+  "section": "Other",
+  "folder": "",
+  "title": "Community frameworks",
+  "url": "/ms-agent-python/community-frameworks"
+ }
+]

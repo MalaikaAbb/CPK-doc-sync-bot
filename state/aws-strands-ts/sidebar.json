@@ -1,0 +1,608 @@
+[
+ {
+  "section": "Getting Started",
+  "folder": "",
+  "title": "Strands Typescript",
+  "url": "/strands-typescript"
+ },
+ {
+  "section": "Getting Started",
+  "folder": "",
+  "title": "Quickstart",
+  "url": "/strands-typescript/quickstart"
+ },
+ {
+  "section": "Getting Started",
+  "folder": "",
+  "title": "Build With Agents",
+  "url": "/strands-typescript/build-with-agents"
+ },
+ {
+  "section": "Getting Started",
+  "folder": "",
+  "title": "Overview",
+  "url": "/strands-typescript/intelligence/overview"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Prebuilt Components",
+  "title": "CopilotChat",
+  "url": "/strands-typescript/prebuilt-components/chat"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Prebuilt Components",
+  "title": "CopilotSidebar",
+  "url": "/strands-typescript/prebuilt-components/sidebar"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Prebuilt Components",
+  "title": "CopilotPopup",
+  "url": "/strands-typescript/prebuilt-components/popup"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Prebuilt Components",
+  "title": "Open, close, and feedback",
+  "url": "/strands-typescript/prebuilt-components/chat-controls"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Custom Look and Feel",
+  "title": "CSS Customization",
+  "url": "/strands-typescript/custom-look-and-feel/css"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Custom Look and Feel",
+  "title": "Slots (Subcomponents)",
+  "url": "/strands-typescript/custom-look-and-feel/slots"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Custom Look and Feel",
+  "title": "Markdown Rendering",
+  "url": "/strands-typescript/custom-look-and-feel/markdown"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Custom Look and Feel",
+  "title": "Headless UI",
+  "url": "/strands-typescript/custom-look-and-feel/headless-ui"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat",
+  "title": "Multimodal Attachments",
+  "url": "/strands-typescript/multimodal-attachments"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat",
+  "title": "Voice",
+  "url": "/strands-typescript/voice"
+ },
+ {
+  "section": "Basics",
+  "folder": "Threads",
+  "title": "Threads Drawer",
+  "url": "/strands-typescript/prebuilt-components/copilot-threads-drawer"
+ },
+ {
+  "section": "Basics",
+  "folder": "Threads",
+  "title": "Headless Threads",
+  "url": "/strands-typescript/headless-threads"
+ },
+ {
+  "section": "Basics",
+  "folder": "",
+  "title": "Frontend-tools",
+  "url": "/strands-typescript/frontend-tools"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Controlled",
+  "title": "Components as Tools",
+  "url": "/strands-typescript/generative-ui/tool-based"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Controlled",
+  "title": "Tool Call Rendering",
+  "url": "/strands-typescript/generative-ui/tool-rendering"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Surfaces",
+  "url": "/strands-typescript/generative-ui/components/surfaces"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Catalogs",
+  "url": "/strands-typescript/generative-ui/components/catalogs"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "State and actions",
+  "url": "/strands-typescript/generative-ui/components/state-and-actions"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Theming",
+  "url": "/strands-typescript/generative-ui/components/theming"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Transports",
+  "url": "/strands-typescript/generative-ui/components/transports"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Markdown mode",
+  "url": "/strands-typescript/generative-ui/components/markdown-mode"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Adopt from A2UI",
+  "url": "/strands-typescript/generative-ui/components/from-a2ui"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/A2UI",
+  "title": "Dynamic Schema A2UI",
+  "url": "/strands-typescript/generative-ui/a2ui/dynamic-schema"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/A2UI",
+  "title": "Fixed Schema A2UI",
+  "url": "/strands-typescript/generative-ui/a2ui/fixed-schema"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative",
+  "title": "JSON Render",
+  "url": "/strands-typescript/generative-ui/json-render"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative",
+  "title": "Hashbrown",
+  "url": "/strands-typescript/generative-ui/hashbrown"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Open-ended",
+  "title": "MCP Apps",
+  "url": "/strands-typescript/generative-ui/mcp-apps"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Open-ended",
+  "title": "Open Generative UI",
+  "url": "/strands-typescript/generative-ui/open-generative-ui"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Shared state",
+  "title": "Render agent state in your app",
+  "url": "/strands-typescript/shared-state/rendering-in-app"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Shared state",
+  "title": "Agent Read-Only Context",
+  "url": "/strands-typescript/shared-state/agent-readonly"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Human-in-the-loop",
+  "title": "Pausing the Agent for Input",
+  "url": "/strands-typescript/human-in-the-loop/useInterrupt"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Human-in-the-loop",
+  "title": "Headless Interrupts",
+  "url": "/strands-typescript/human-in-the-loop/headless"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Human-in-the-loop",
+  "title": "Governed Action Approval UI",
+  "url": "/strands-typescript/human-in-the-loop/governed-actions"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "",
+  "title": "WebMCP",
+  "url": "/strands-typescript/webmcp"
+ },
+ {
+  "section": "Agent capabilities",
+  "folder": "AWS Strands (TypeScript)/Your Components",
+  "title": "Display-only",
+  "url": "/strands-typescript/generative-ui/your-components/display-only"
+ },
+ {
+  "section": "Agent capabilities",
+  "folder": "AWS Strands (TypeScript)/Your Components",
+  "title": "Interactive",
+  "url": "/strands-typescript/generative-ui/your-components/interactive"
+ },
+ {
+  "section": "Agent capabilities",
+  "folder": "AWS Strands (TypeScript)",
+  "title": "Copilot Runtime",
+  "url": "/strands-typescript/copilot-runtime"
+ },
+ {
+  "section": "Agent capabilities",
+  "folder": "AWS Strands (TypeScript)",
+  "title": "AG-UI",
+  "url": "/strands-typescript/ag-ui"
+ },
+ {
+  "section": "Agent capabilities",
+  "folder": "",
+  "title": "Sub-agents",
+  "url": "/strands-typescript/multi-agent/subagents"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Get started",
+  "title": "Quickstart",
+  "url": "/strands-typescript/intelligence/quickstart"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Get started",
+  "title": "Architecture",
+  "url": "/strands-typescript/intelligence/intelligence-platform"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Get started",
+  "title": "Plans",
+  "url": "/strands-typescript/intelligence/plans"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/AG-UI Streams",
+  "title": "Overview",
+  "url": "/strands-typescript/AG-UI-Streams"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/AG-UI Streams",
+  "title": "Bring your own thread system",
+  "url": "/strands-typescript/intelligence/bring-your-own-thread-system"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/AG-UI Streams",
+  "title": "Add to Existing Threads",
+  "url": "/strands-typescript/threads-import"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/AG-UI Streams",
+  "title": "Thread & History Lifecycle",
+  "url": "/strands-typescript/threads-lifecycle"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/AG-UI Streams",
+  "title": "Streams & Framework Threads",
+  "url": "/strands-typescript/intelligence/threads-explained"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Automatic Learning",
+  "title": "Automatic Learning",
+  "url": "/strands-typescript/learning"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Automatic Learning",
+  "title": "Skill delivery",
+  "url": "/strands-typescript/intelligence/learned-skills"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features",
+  "title": "User Memories",
+  "url": "/strands-typescript/intelligence/memories"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Trajectories",
+  "title": "Overview",
+  "url": "/strands-typescript/intelligence/trajectories"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Trajectories",
+  "title": "Quickstart",
+  "url": "/strands-typescript/intelligence/trajectories-quickstart"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Trajectories",
+  "title": "Capture interactions",
+  "url": "/strands-typescript/intelligence/capture-interactions"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Trajectories",
+  "title": "Captured data",
+  "url": "/strands-typescript/intelligence/captured-data"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Trajectories",
+  "title": "API reference",
+  "url": "/strands-typescript/intelligence/trajectories-reference"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features",
+  "title": "Standalone collector",
+  "url": "/strands-typescript/intelligence/standalone-collector"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features",
+  "title": "Product Analytics",
+  "url": "/strands-typescript/intelligence/analytics"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features",
+  "title": "Channels",
+  "url": "/strands-typescript/intelligence/channels"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Hosting",
+  "title": "Cloud-hosted",
+  "url": "/strands-typescript/intelligence/managed-intelligence-platform"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Hosting",
+  "title": "Self-hosted",
+  "url": "/strands-typescript/intelligence/self-hosting"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Hosting",
+  "title": "AWS ECS/Fargate",
+  "url": "/strands-typescript/intelligence/self-hosting-ecs"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Hosting",
+  "title": "Local evaluation",
+  "url": "/strands-typescript/intelligence/self-hosting-local"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "Copilot Runtime",
+  "url": "/strands-typescript/backend/copilot-runtime"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "Runtime HTTP endpoints",
+  "url": "/strands-typescript/backend/runtime-endpoints"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "Use any model router",
+  "url": "/strands-typescript/backend/custom-agent"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "Write your own AG-UI agent",
+  "url": "/strands-typescript/backend/custom-ag-ui-agent"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "AgentRunner and persistence",
+  "url": "/strands-typescript/backend/agent-runner"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "Message history",
+  "url": "/strands-typescript/backend/message-history"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "Self-managed agents",
+  "url": "/strands-typescript/backend/self-managed-agents"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "Connect AG-UI agents",
+  "url": "/strands-typescript/backend/ag-ui"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "Deploy to any runtime",
+  "url": "/strands-typescript/runtime-server-adapter"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "Authentication",
+  "url": "/strands-typescript/auth"
+ },
+ {
+  "section": "Backend",
+  "folder": "Deployment",
+  "title": "AWS AgentCore",
+  "url": "/strands-typescript/deploy/agentcore"
+ },
+ {
+  "section": "Backend",
+  "folder": "Deployment",
+  "title": "AWS Lambda",
+  "url": "/strands-typescript/deploy/aws-lambda"
+ },
+ {
+  "section": "Backend",
+  "folder": "Deployment",
+  "title": "LangSmith Platform",
+  "url": "/strands-typescript/deploy/langsmith"
+ },
+ {
+  "section": "Backend",
+  "folder": "Debugging",
+  "title": "Inspector",
+  "url": "/strands-typescript/inspector"
+ },
+ {
+  "section": "Backend",
+  "folder": "Debugging",
+  "title": "VS Code Extension",
+  "url": "/strands-typescript/vs-code-extension"
+ },
+ {
+  "section": "Learn",
+  "folder": "Concepts",
+  "title": "Architecture",
+  "url": "/strands-typescript/concepts/architecture"
+ },
+ {
+  "section": "Learn",
+  "folder": "Concepts",
+  "title": "Generative UI",
+  "url": "/strands-typescript/concepts/generative-ui-overview"
+ },
+ {
+  "section": "Learn",
+  "folder": "Concepts",
+  "title": "Which Hook for Which Job",
+  "url": "/strands-typescript/concepts/which-hook"
+ },
+ {
+  "section": "Learn",
+  "folder": "Concepts",
+  "title": "Open source vs Intelligence",
+  "url": "/strands-typescript/concepts/oss-vs-enterprise"
+ },
+ {
+  "section": "Learn",
+  "folder": "Concepts/Agentic Protocols",
+  "title": "Overview",
+  "url": "/strands-typescript/agentic-protocols"
+ },
+ {
+  "section": "Learn",
+  "folder": "Concepts/Agentic Protocols",
+  "title": "AG-UI",
+  "url": "/strands-typescript/agentic-protocols/ag-ui"
+ },
+ {
+  "section": "Learn",
+  "folder": "Concepts/Agentic Protocols",
+  "title": "AG-UI Middleware",
+  "url": "/strands-typescript/agentic-protocols/ag-ui-middleware"
+ },
+ {
+  "section": "Learn",
+  "folder": "Concepts/Agentic Protocols",
+  "title": "MCP",
+  "url": "/strands-typescript/agentic-protocols/mcp"
+ },
+ {
+  "section": "Learn",
+  "folder": "Concepts/Agentic Protocols",
+  "title": "A2A",
+  "url": "/strands-typescript/agentic-protocols/a2a"
+ },
+ {
+  "section": "Other",
+  "folder": "Contributing",
+  "title": "Code Contributions",
+  "url": "/strands-typescript/contributing/code-contributions"
+ },
+ {
+  "section": "Other",
+  "folder": "Contributing",
+  "title": "Documentation Contributions",
+  "url": "/strands-typescript/contributing/docs-contributions"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting",
+  "title": "Common Copilot Issues",
+  "url": "/strands-typescript/troubleshooting/common-issues"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting",
+  "title": "Error message reference",
+  "url": "/strands-typescript/troubleshooting/error-reference"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting",
+  "title": "Error Debugging & Observability",
+  "url": "/strands-typescript/troubleshooting/error-debugging"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting",
+  "title": "Inspector and dev console",
+  "url": "/strands-typescript/troubleshooting/inspector-dev-console"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting",
+  "title": "Debug Mode",
+  "url": "/strands-typescript/troubleshooting/debug-mode"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting",
+  "title": "AG-UI Event Inspector",
+  "url": "/strands-typescript/troubleshooting/event-inspector"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting",
+  "title": "Hook Explorer",
+  "url": "/strands-typescript/troubleshooting/hook-explorer"
+ },
+ {
+  "section": "Other",
+  "folder": "",
+  "title": "Open-source telemetry",
+  "url": "/strands-typescript/telemetry"
+ },
+ {
+  "section": "Other",
+  "folder": "",
+  "title": "Community frameworks",
+  "url": "/strands-typescript/community-frameworks"
+ }
+]

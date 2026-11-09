@@ -1,0 +1,7 @@
+{
+ "pages": {
+  "/mastra/copilot-runtime": "f979e9a98ace609788fd7f4faa98bd0bdeb7fc879cf97e84db794751eb62dca1",
+  "/mastra/generative-ui/open-generative-ui": "ba130de9b58b35d6cc127360dbe9862de8122d515bddb4b29c2173824d4e386a",
+  "/mastra/inspector": "cc8d4bcbe9e0e9feae7645877c669d48c46bcdcf85cc19f78452fa55dbfe0089"
+ }
+}

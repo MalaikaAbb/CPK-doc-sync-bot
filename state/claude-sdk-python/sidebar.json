@@ -1,0 +1,578 @@
+[
+ {
+  "section": "Getting Started",
+  "folder": "",
+  "title": "Claude Sdk Python",
+  "url": "/claude-sdk-python"
+ },
+ {
+  "section": "Getting Started",
+  "folder": "",
+  "title": "Quickstart",
+  "url": "/claude-sdk-python/quickstart"
+ },
+ {
+  "section": "Getting Started",
+  "folder": "",
+  "title": "Build With Agents",
+  "url": "/claude-sdk-python/build-with-agents"
+ },
+ {
+  "section": "Getting Started",
+  "folder": "",
+  "title": "Overview",
+  "url": "/claude-sdk-python/intelligence/overview"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Prebuilt Components",
+  "title": "CopilotChat",
+  "url": "/claude-sdk-python/prebuilt-components/chat"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Prebuilt Components",
+  "title": "CopilotSidebar",
+  "url": "/claude-sdk-python/prebuilt-components/sidebar"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Prebuilt Components",
+  "title": "CopilotPopup",
+  "url": "/claude-sdk-python/prebuilt-components/popup"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Prebuilt Components",
+  "title": "Open, close, and feedback",
+  "url": "/claude-sdk-python/prebuilt-components/chat-controls"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Custom Look and Feel",
+  "title": "CSS Customization",
+  "url": "/claude-sdk-python/custom-look-and-feel/css"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Custom Look and Feel",
+  "title": "Slots (Subcomponents)",
+  "url": "/claude-sdk-python/custom-look-and-feel/slots"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Custom Look and Feel",
+  "title": "Headless UI",
+  "url": "/claude-sdk-python/custom-look-and-feel/headless-ui"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Custom Look and Feel",
+  "title": "Reasoning Messages",
+  "url": "/claude-sdk-python/custom-look-and-feel/reasoning-messages"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat",
+  "title": "Multimodal Attachments",
+  "url": "/claude-sdk-python/multimodal-attachments"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat",
+  "title": "Voice",
+  "url": "/claude-sdk-python/voice"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat",
+  "title": "Reasoning",
+  "url": "/claude-sdk-python/generative-ui/reasoning"
+ },
+ {
+  "section": "Basics",
+  "folder": "Threads",
+  "title": "Threads Drawer",
+  "url": "/claude-sdk-python/prebuilt-components/copilot-threads-drawer"
+ },
+ {
+  "section": "Basics",
+  "folder": "Threads",
+  "title": "Headless Threads",
+  "url": "/claude-sdk-python/headless-threads"
+ },
+ {
+  "section": "Basics",
+  "folder": "",
+  "title": "Frontend-tools",
+  "url": "/claude-sdk-python/frontend-tools"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Controlled",
+  "title": "Components as Tools",
+  "url": "/claude-sdk-python/generative-ui/tool-based"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Controlled",
+  "title": "Tool Call Rendering",
+  "url": "/claude-sdk-python/generative-ui/tool-rendering"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Controlled",
+  "title": "State Rendering",
+  "url": "/claude-sdk-python/generative-ui/state-rendering"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Components and surfaces",
+  "url": "/claude-sdk-python/generative-ui/components"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Surfaces",
+  "url": "/claude-sdk-python/generative-ui/components/surfaces"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Catalogs",
+  "url": "/claude-sdk-python/generative-ui/components/catalogs"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Standard catalog",
+  "url": "/claude-sdk-python/generative-ui/components/standard-catalog"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "State and actions",
+  "url": "/claude-sdk-python/generative-ui/components/state-and-actions"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Theming",
+  "url": "/claude-sdk-python/generative-ui/components/theming"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Transports",
+  "url": "/claude-sdk-python/generative-ui/components/transports"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Markdown mode",
+  "url": "/claude-sdk-python/generative-ui/components/markdown-mode"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/A2UI",
+  "title": "Dynamic Schema A2UI",
+  "url": "/claude-sdk-python/generative-ui/a2ui/dynamic-schema"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/A2UI",
+  "title": "Fixed Schema A2UI",
+  "url": "/claude-sdk-python/generative-ui/a2ui/fixed-schema"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative",
+  "title": "JSON Render",
+  "url": "/claude-sdk-python/generative-ui/json-render"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative",
+  "title": "Hashbrown",
+  "url": "/claude-sdk-python/generative-ui/hashbrown"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Shared state",
+  "title": "Shared State",
+  "url": "/claude-sdk-python/shared-state"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Shared state",
+  "title": "Render agent state in your app",
+  "url": "/claude-sdk-python/shared-state/rendering-in-app"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Shared state",
+  "title": "State Streaming",
+  "url": "/claude-sdk-python/shared-state/streaming"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Shared state",
+  "title": "Agent Read-Only Context",
+  "url": "/claude-sdk-python/shared-state/agent-readonly"
+ },
+ {
+  "section": "Agent capabilities",
+  "folder": "",
+  "title": "Sub-agents",
+  "url": "/claude-sdk-python/multi-agent/subagents"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Get started",
+  "title": "Quickstart",
+  "url": "/claude-sdk-python/intelligence/quickstart"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Get started",
+  "title": "Architecture",
+  "url": "/claude-sdk-python/intelligence/intelligence-platform"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Get started",
+  "title": "Plans",
+  "url": "/claude-sdk-python/intelligence/plans"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/AG-UI Streams",
+  "title": "Overview",
+  "url": "/claude-sdk-python/AG-UI-Streams"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/AG-UI Streams",
+  "title": "Bring your own thread system",
+  "url": "/claude-sdk-python/intelligence/bring-your-own-thread-system"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/AG-UI Streams",
+  "title": "Add to Existing Threads",
+  "url": "/claude-sdk-python/threads-import"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/AG-UI Streams",
+  "title": "Thread & History Lifecycle",
+  "url": "/claude-sdk-python/threads-lifecycle"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/AG-UI Streams",
+  "title": "Streams & Framework Threads",
+  "url": "/claude-sdk-python/intelligence/threads-explained"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Automatic Learning",
+  "title": "Automatic Learning",
+  "url": "/claude-sdk-python/learning"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Automatic Learning",
+  "title": "Skill delivery",
+  "url": "/claude-sdk-python/intelligence/learned-skills"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features",
+  "title": "User Memories",
+  "url": "/claude-sdk-python/intelligence/memories"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Trajectories",
+  "title": "Overview",
+  "url": "/claude-sdk-python/intelligence/trajectories"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Trajectories",
+  "title": "Quickstart",
+  "url": "/claude-sdk-python/intelligence/trajectories-quickstart"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Trajectories",
+  "title": "Capture interactions",
+  "url": "/claude-sdk-python/intelligence/capture-interactions"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Trajectories",
+  "title": "Captured data",
+  "url": "/claude-sdk-python/intelligence/captured-data"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Trajectories",
+  "title": "API reference",
+  "url": "/claude-sdk-python/intelligence/trajectories-reference"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features",
+  "title": "Standalone collector",
+  "url": "/claude-sdk-python/intelligence/standalone-collector"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features",
+  "title": "Product Analytics",
+  "url": "/claude-sdk-python/intelligence/analytics"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features",
+  "title": "Channels",
+  "url": "/claude-sdk-python/intelligence/channels"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Hosting",
+  "title": "Cloud-hosted",
+  "url": "/claude-sdk-python/intelligence/managed-intelligence-platform"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Hosting",
+  "title": "Self-hosted",
+  "url": "/claude-sdk-python/intelligence/self-hosting"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Hosting",
+  "title": "AWS ECS/Fargate",
+  "url": "/claude-sdk-python/intelligence/self-hosting-ecs"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Hosting",
+  "title": "Local evaluation",
+  "url": "/claude-sdk-python/intelligence/self-hosting-local"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "Copilot Runtime",
+  "url": "/claude-sdk-python/backend/copilot-runtime"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "Runtime HTTP endpoints",
+  "url": "/claude-sdk-python/backend/runtime-endpoints"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "Use any model router",
+  "url": "/claude-sdk-python/backend/custom-agent"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "Write your own AG-UI agent",
+  "url": "/claude-sdk-python/backend/custom-ag-ui-agent"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "AgentRunner and persistence",
+  "url": "/claude-sdk-python/backend/agent-runner"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "Message history",
+  "url": "/claude-sdk-python/backend/message-history"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "Self-managed agents",
+  "url": "/claude-sdk-python/backend/self-managed-agents"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "Connect AG-UI agents",
+  "url": "/claude-sdk-python/backend/ag-ui"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "Deploy to any runtime",
+  "url": "/claude-sdk-python/runtime-server-adapter"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "Authentication",
+  "url": "/claude-sdk-python/auth"
+ },
+ {
+  "section": "Backend",
+  "folder": "Deployment",
+  "title": "AWS AgentCore",
+  "url": "/claude-sdk-python/deploy/agentcore"
+ },
+ {
+  "section": "Backend",
+  "folder": "Deployment",
+  "title": "AWS Lambda",
+  "url": "/claude-sdk-python/deploy/aws-lambda"
+ },
+ {
+  "section": "Backend",
+  "folder": "Deployment",
+  "title": "LangSmith Platform",
+  "url": "/claude-sdk-python/deploy/langsmith"
+ },
+ {
+  "section": "Backend",
+  "folder": "Debugging",
+  "title": "Inspector",
+  "url": "/claude-sdk-python/inspector"
+ },
+ {
+  "section": "Backend",
+  "folder": "Debugging",
+  "title": "VS Code Extension",
+  "url": "/claude-sdk-python/vs-code-extension"
+ },
+ {
+  "section": "Learn",
+  "folder": "Concepts",
+  "title": "Architecture",
+  "url": "/claude-sdk-python/concepts/architecture"
+ },
+ {
+  "section": "Learn",
+  "folder": "Concepts",
+  "title": "Generative UI",
+  "url": "/claude-sdk-python/concepts/generative-ui-overview"
+ },
+ {
+  "section": "Learn",
+  "folder": "Concepts",
+  "title": "Which Hook for Which Job",
+  "url": "/claude-sdk-python/concepts/which-hook"
+ },
+ {
+  "section": "Learn",
+  "folder": "Concepts",
+  "title": "Open source vs Intelligence",
+  "url": "/claude-sdk-python/concepts/oss-vs-enterprise"
+ },
+ {
+  "section": "Learn",
+  "folder": "Concepts/Agentic Protocols",
+  "title": "Overview",
+  "url": "/claude-sdk-python/agentic-protocols"
+ },
+ {
+  "section": "Learn",
+  "folder": "Concepts/Agentic Protocols",
+  "title": "AG-UI",
+  "url": "/claude-sdk-python/agentic-protocols/ag-ui"
+ },
+ {
+  "section": "Learn",
+  "folder": "Concepts/Agentic Protocols",
+  "title": "AG-UI Middleware",
+  "url": "/claude-sdk-python/agentic-protocols/ag-ui-middleware"
+ },
+ {
+  "section": "Learn",
+  "folder": "Concepts/Agentic Protocols",
+  "title": "MCP",
+  "url": "/claude-sdk-python/agentic-protocols/mcp"
+ },
+ {
+  "section": "Learn",
+  "folder": "Concepts/Agentic Protocols",
+  "title": "A2A",
+  "url": "/claude-sdk-python/agentic-protocols/a2a"
+ },
+ {
+  "section": "Other",
+  "folder": "Contributing",
+  "title": "Code Contributions",
+  "url": "/claude-sdk-python/contributing/code-contributions"
+ },
+ {
+  "section": "Other",
+  "folder": "Contributing",
+  "title": "Documentation Contributions",
+  "url": "/claude-sdk-python/contributing/docs-contributions"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting",
+  "title": "Common Copilot Issues",
+  "url": "/claude-sdk-python/troubleshooting/common-issues"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting",
+  "title": "Error message reference",
+  "url": "/claude-sdk-python/troubleshooting/error-reference"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting",
+  "title": "Error Debugging & Observability",
+  "url": "/claude-sdk-python/troubleshooting/error-debugging"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting",
+  "title": "Inspector and dev console",
+  "url": "/claude-sdk-python/troubleshooting/inspector-dev-console"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting",
+  "title": "Debug Mode",
+  "url": "/claude-sdk-python/troubleshooting/debug-mode"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting",
+  "title": "AG-UI Event Inspector",
+  "url": "/claude-sdk-python/troubleshooting/event-inspector"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting",
+  "title": "Hook Explorer",
+  "url": "/claude-sdk-python/troubleshooting/hook-explorer"
+ },
+ {
+  "section": "Other",
+  "folder": "",
+  "title": "Open-source telemetry",
+  "url": "/claude-sdk-python/telemetry"
+ },
+ {
+  "section": "Other",
+  "folder": "",
+  "title": "Community frameworks",
+  "url": "/claude-sdk-python/community-frameworks"
+ }
+]

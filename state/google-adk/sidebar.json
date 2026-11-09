@@ -1,0 +1,608 @@
+[
+ {
+  "section": "Getting Started",
+  "folder": "",
+  "title": "Google Adk",
+  "url": "/google-adk"
+ },
+ {
+  "section": "Getting Started",
+  "folder": "",
+  "title": "Quickstart",
+  "url": "/google-adk/quickstart"
+ },
+ {
+  "section": "Getting Started",
+  "folder": "",
+  "title": "Build With Agents",
+  "url": "/google-adk/build-with-agents"
+ },
+ {
+  "section": "Getting Started",
+  "folder": "",
+  "title": "Overview",
+  "url": "/google-adk/intelligence/overview"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Prebuilt Components",
+  "title": "CopilotChat",
+  "url": "/google-adk/prebuilt-components/chat"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Prebuilt Components",
+  "title": "CopilotSidebar",
+  "url": "/google-adk/prebuilt-components/sidebar"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Prebuilt Components",
+  "title": "CopilotPopup",
+  "url": "/google-adk/prebuilt-components/popup"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Prebuilt Components",
+  "title": "Open, close, and feedback",
+  "url": "/google-adk/prebuilt-components/chat-controls"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Custom Look and Feel",
+  "title": "CSS Customization",
+  "url": "/google-adk/custom-look-and-feel/css"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Custom Look and Feel",
+  "title": "Slots (Subcomponents)",
+  "url": "/google-adk/custom-look-and-feel/slots"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Custom Look and Feel",
+  "title": "Markdown Rendering",
+  "url": "/google-adk/custom-look-and-feel/markdown"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Custom Look and Feel",
+  "title": "Headless UI",
+  "url": "/google-adk/custom-look-and-feel/headless-ui"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Custom Look and Feel",
+  "title": "Reasoning Messages",
+  "url": "/google-adk/custom-look-and-feel/reasoning-messages"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat",
+  "title": "Multimodal Attachments",
+  "url": "/google-adk/multimodal-attachments"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat",
+  "title": "Voice",
+  "url": "/google-adk/voice"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat",
+  "title": "Reasoning",
+  "url": "/google-adk/generative-ui/reasoning"
+ },
+ {
+  "section": "Basics",
+  "folder": "Threads",
+  "title": "Threads Drawer",
+  "url": "/google-adk/prebuilt-components/copilot-threads-drawer"
+ },
+ {
+  "section": "Basics",
+  "folder": "Threads",
+  "title": "Headless Threads",
+  "url": "/google-adk/headless-threads"
+ },
+ {
+  "section": "Basics",
+  "folder": "",
+  "title": "Frontend-tools",
+  "url": "/google-adk/frontend-tools"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Controlled",
+  "title": "Components as Tools",
+  "url": "/google-adk/generative-ui/tool-based"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Controlled",
+  "title": "Tool Call Rendering",
+  "url": "/google-adk/generative-ui/tool-rendering"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Controlled",
+  "title": "State Rendering",
+  "url": "/google-adk/generative-ui/state-rendering"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Surfaces",
+  "url": "/google-adk/generative-ui/components/surfaces"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Catalogs",
+  "url": "/google-adk/generative-ui/components/catalogs"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "State and actions",
+  "url": "/google-adk/generative-ui/components/state-and-actions"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Theming",
+  "url": "/google-adk/generative-ui/components/theming"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Transports",
+  "url": "/google-adk/generative-ui/components/transports"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Markdown mode",
+  "url": "/google-adk/generative-ui/components/markdown-mode"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Adopt from A2UI",
+  "url": "/google-adk/generative-ui/components/from-a2ui"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/A2UI",
+  "title": "Dynamic Schema A2UI",
+  "url": "/google-adk/generative-ui/a2ui/dynamic-schema"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/A2UI",
+  "title": "Fixed Schema A2UI",
+  "url": "/google-adk/generative-ui/a2ui/fixed-schema"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative",
+  "title": "JSON Render",
+  "url": "/google-adk/generative-ui/json-render"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative",
+  "title": "Hashbrown",
+  "url": "/google-adk/generative-ui/hashbrown"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Open-ended",
+  "title": "MCP Apps",
+  "url": "/google-adk/generative-ui/mcp-apps"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Open-ended",
+  "title": "Open Generative UI",
+  "url": "/google-adk/generative-ui/open-generative-ui"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Shared state",
+  "title": "Shared State",
+  "url": "/google-adk/shared-state"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Shared state",
+  "title": "Render agent state in your app",
+  "url": "/google-adk/shared-state/rendering-in-app"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Shared state",
+  "title": "State Streaming",
+  "url": "/google-adk/shared-state/streaming"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Shared state",
+  "title": "Agent Read-Only Context",
+  "url": "/google-adk/shared-state/agent-readonly"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Human-in-the-loop",
+  "title": "Governed Action Approval UI",
+  "url": "/google-adk/human-in-the-loop/governed-actions"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "",
+  "title": "WebMCP",
+  "url": "/google-adk/webmcp"
+ },
+ {
+  "section": "Agent capabilities",
+  "folder": "Google ADK",
+  "title": "Agent App Context",
+  "url": "/google-adk/agent-app-context"
+ },
+ {
+  "section": "Agent capabilities",
+  "folder": "",
+  "title": "Sub-agents",
+  "url": "/google-adk/multi-agent/subagents"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Get started",
+  "title": "Quickstart",
+  "url": "/google-adk/intelligence/quickstart"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Get started",
+  "title": "Architecture",
+  "url": "/google-adk/intelligence/intelligence-platform"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Get started",
+  "title": "Plans",
+  "url": "/google-adk/intelligence/plans"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/AG-UI Streams",
+  "title": "Overview",
+  "url": "/google-adk/AG-UI-Streams"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/AG-UI Streams",
+  "title": "Bring your own thread system",
+  "url": "/google-adk/intelligence/bring-your-own-thread-system"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/AG-UI Streams",
+  "title": "Add to Existing Threads",
+  "url": "/google-adk/threads-import"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/AG-UI Streams",
+  "title": "Thread & History Lifecycle",
+  "url": "/google-adk/threads-lifecycle"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/AG-UI Streams",
+  "title": "Streams & Framework Threads",
+  "url": "/google-adk/intelligence/threads-explained"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Automatic Learning",
+  "title": "Automatic Learning",
+  "url": "/google-adk/learning"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Automatic Learning",
+  "title": "Skill delivery",
+  "url": "/google-adk/intelligence/learned-skills"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features",
+  "title": "User Memories",
+  "url": "/google-adk/intelligence/memories"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Trajectories",
+  "title": "Overview",
+  "url": "/google-adk/intelligence/trajectories"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Trajectories",
+  "title": "Quickstart",
+  "url": "/google-adk/intelligence/trajectories-quickstart"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Trajectories",
+  "title": "Capture interactions",
+  "url": "/google-adk/intelligence/capture-interactions"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Trajectories",
+  "title": "Captured data",
+  "url": "/google-adk/intelligence/captured-data"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Trajectories",
+  "title": "API reference",
+  "url": "/google-adk/intelligence/trajectories-reference"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features",
+  "title": "Standalone collector",
+  "url": "/google-adk/intelligence/standalone-collector"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features",
+  "title": "Product Analytics",
+  "url": "/google-adk/intelligence/analytics"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features",
+  "title": "Channels",
+  "url": "/google-adk/intelligence/channels"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Hosting",
+  "title": "Cloud-hosted",
+  "url": "/google-adk/intelligence/managed-intelligence-platform"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Hosting",
+  "title": "Self-hosted",
+  "url": "/google-adk/intelligence/self-hosting"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Hosting",
+  "title": "AWS ECS/Fargate",
+  "url": "/google-adk/intelligence/self-hosting-ecs"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Hosting",
+  "title": "Local evaluation",
+  "url": "/google-adk/intelligence/self-hosting-local"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "Copilot Runtime",
+  "url": "/google-adk/backend/copilot-runtime"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "Runtime HTTP endpoints",
+  "url": "/google-adk/backend/runtime-endpoints"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "Use any model router",
+  "url": "/google-adk/backend/custom-agent"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "Write your own AG-UI agent",
+  "url": "/google-adk/backend/custom-ag-ui-agent"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "AgentRunner and persistence",
+  "url": "/google-adk/backend/agent-runner"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "Message history",
+  "url": "/google-adk/backend/message-history"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "Self-managed agents",
+  "url": "/google-adk/backend/self-managed-agents"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "Connect AG-UI agents",
+  "url": "/google-adk/backend/ag-ui"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "Deploy to any runtime",
+  "url": "/google-adk/runtime-server-adapter"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "Authentication",
+  "url": "/google-adk/auth"
+ },
+ {
+  "section": "Backend",
+  "folder": "Deployment",
+  "title": "AWS AgentCore",
+  "url": "/google-adk/deploy/agentcore"
+ },
+ {
+  "section": "Backend",
+  "folder": "Deployment",
+  "title": "AWS Lambda",
+  "url": "/google-adk/deploy/aws-lambda"
+ },
+ {
+  "section": "Backend",
+  "folder": "Deployment",
+  "title": "LangSmith Platform",
+  "url": "/google-adk/deploy/langsmith"
+ },
+ {
+  "section": "Backend",
+  "folder": "Debugging",
+  "title": "Inspector",
+  "url": "/google-adk/inspector"
+ },
+ {
+  "section": "Backend",
+  "folder": "Debugging",
+  "title": "VS Code Extension",
+  "url": "/google-adk/vs-code-extension"
+ },
+ {
+  "section": "Learn",
+  "folder": "Concepts",
+  "title": "Architecture",
+  "url": "/google-adk/concepts/architecture"
+ },
+ {
+  "section": "Learn",
+  "folder": "Concepts",
+  "title": "Generative UI",
+  "url": "/google-adk/concepts/generative-ui-overview"
+ },
+ {
+  "section": "Learn",
+  "folder": "Concepts",
+  "title": "Which Hook for Which Job",
+  "url": "/google-adk/concepts/which-hook"
+ },
+ {
+  "section": "Learn",
+  "folder": "Concepts",
+  "title": "Open source vs Intelligence",
+  "url": "/google-adk/concepts/oss-vs-enterprise"
+ },
+ {
+  "section": "Learn",
+  "folder": "Concepts/Agentic Protocols",
+  "title": "Overview",
+  "url": "/google-adk/agentic-protocols"
+ },
+ {
+  "section": "Learn",
+  "folder": "Concepts/Agentic Protocols",
+  "title": "AG-UI",
+  "url": "/google-adk/agentic-protocols/ag-ui"
+ },
+ {
+  "section": "Learn",
+  "folder": "Concepts/Agentic Protocols",
+  "title": "AG-UI Middleware",
+  "url": "/google-adk/agentic-protocols/ag-ui-middleware"
+ },
+ {
+  "section": "Learn",
+  "folder": "Concepts/Agentic Protocols",
+  "title": "MCP",
+  "url": "/google-adk/agentic-protocols/mcp"
+ },
+ {
+  "section": "Learn",
+  "folder": "Concepts/Agentic Protocols",
+  "title": "A2A",
+  "url": "/google-adk/agentic-protocols/a2a"
+ },
+ {
+  "section": "Other",
+  "folder": "Contributing",
+  "title": "Code Contributions",
+  "url": "/google-adk/contributing/code-contributions"
+ },
+ {
+  "section": "Other",
+  "folder": "Contributing",
+  "title": "Documentation Contributions",
+  "url": "/google-adk/contributing/docs-contributions"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting",
+  "title": "Common Copilot Issues",
+  "url": "/google-adk/troubleshooting/common-issues"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting",
+  "title": "Error message reference",
+  "url": "/google-adk/troubleshooting/error-reference"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting",
+  "title": "Error Debugging & Observability",
+  "url": "/google-adk/troubleshooting/error-debugging"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting",
+  "title": "Inspector and dev console",
+  "url": "/google-adk/troubleshooting/inspector-dev-console"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting",
+  "title": "Debug Mode",
+  "url": "/google-adk/troubleshooting/debug-mode"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting",
+  "title": "AG-UI Event Inspector",
+  "url": "/google-adk/troubleshooting/event-inspector"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting",
+  "title": "Hook Explorer",
+  "url": "/google-adk/troubleshooting/hook-explorer"
+ },
+ {
+  "section": "Other",
+  "folder": "",
+  "title": "Open-source telemetry",
+  "url": "/google-adk/telemetry"
+ },
+ {
+  "section": "Other",
+  "folder": "",
+  "title": "Community frameworks",
+  "url": "/google-adk/community-frameworks"
+ }
+]

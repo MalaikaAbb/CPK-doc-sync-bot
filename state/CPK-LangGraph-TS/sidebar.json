@@ -1,0 +1,674 @@
+[
+ {
+  "section": "Getting Started",
+  "folder": "",
+  "title": "Langgraph Typescript",
+  "url": "/langgraph-typescript"
+ },
+ {
+  "section": "Getting Started",
+  "folder": "",
+  "title": "Quickstart",
+  "url": "/langgraph-typescript/quickstart"
+ },
+ {
+  "section": "Getting Started",
+  "folder": "",
+  "title": "Build With Agents",
+  "url": "/langgraph-typescript/build-with-agents"
+ },
+ {
+  "section": "Getting Started",
+  "folder": "",
+  "title": "Overview",
+  "url": "/langgraph-typescript/intelligence/overview"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Prebuilt Components",
+  "title": "CopilotChat",
+  "url": "/langgraph-typescript/prebuilt-components/chat"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Prebuilt Components",
+  "title": "CopilotSidebar",
+  "url": "/langgraph-typescript/prebuilt-components/sidebar"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Prebuilt Components",
+  "title": "CopilotPopup",
+  "url": "/langgraph-typescript/prebuilt-components/popup"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Prebuilt Components",
+  "title": "Open, close, and feedback",
+  "url": "/langgraph-typescript/prebuilt-components/chat-controls"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Custom Look and Feel",
+  "title": "CSS Customization",
+  "url": "/langgraph-typescript/custom-look-and-feel/css"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Custom Look and Feel",
+  "title": "Slots (Subcomponents)",
+  "url": "/langgraph-typescript/custom-look-and-feel/slots"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Custom Look and Feel",
+  "title": "Markdown Rendering",
+  "url": "/langgraph-typescript/custom-look-and-feel/markdown"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Custom Look and Feel",
+  "title": "Headless UI",
+  "url": "/langgraph-typescript/custom-look-and-feel/headless-ui"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Custom Look and Feel",
+  "title": "Reasoning Messages",
+  "url": "/langgraph-typescript/custom-look-and-feel/reasoning-messages"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat",
+  "title": "Multimodal Attachments",
+  "url": "/langgraph-typescript/multimodal-attachments"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat",
+  "title": "Voice",
+  "url": "/langgraph-typescript/voice"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat",
+  "title": "Reasoning",
+  "url": "/langgraph-typescript/generative-ui/reasoning"
+ },
+ {
+  "section": "Basics",
+  "folder": "Threads",
+  "title": "Threads Drawer",
+  "url": "/langgraph-typescript/prebuilt-components/copilot-threads-drawer"
+ },
+ {
+  "section": "Basics",
+  "folder": "Threads",
+  "title": "Headless Threads",
+  "url": "/langgraph-typescript/headless-threads"
+ },
+ {
+  "section": "Basics",
+  "folder": "",
+  "title": "Frontend-tools",
+  "url": "/langgraph-typescript/frontend-tools"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Controlled",
+  "title": "Components as Tools",
+  "url": "/langgraph-typescript/generative-ui/tool-based"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Controlled",
+  "title": "Tool Call Rendering",
+  "url": "/langgraph-typescript/generative-ui/tool-rendering"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Controlled",
+  "title": "State Rendering",
+  "url": "/langgraph-typescript/generative-ui/state-rendering"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Components and surfaces",
+  "url": "/langgraph-typescript/generative-ui/components"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Surfaces",
+  "url": "/langgraph-typescript/generative-ui/components/surfaces"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Catalogs",
+  "url": "/langgraph-typescript/generative-ui/components/catalogs"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Standard catalog",
+  "url": "/langgraph-typescript/generative-ui/components/standard-catalog"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "State and actions",
+  "url": "/langgraph-typescript/generative-ui/components/state-and-actions"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Theming",
+  "url": "/langgraph-typescript/generative-ui/components/theming"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Transports",
+  "url": "/langgraph-typescript/generative-ui/components/transports"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Markdown mode",
+  "url": "/langgraph-typescript/generative-ui/components/markdown-mode"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Adopt from A2UI",
+  "url": "/langgraph-typescript/generative-ui/components/from-a2ui"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/A2UI",
+  "title": "A2UI",
+  "url": "/langgraph-typescript/generative-ui/a2ui"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/A2UI",
+  "title": "Dynamic Schema A2UI",
+  "url": "/langgraph-typescript/generative-ui/a2ui/dynamic-schema"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/A2UI",
+  "title": "Fixed Schema A2UI",
+  "url": "/langgraph-typescript/generative-ui/a2ui/fixed-schema"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative",
+  "title": "JSON Render",
+  "url": "/langgraph-typescript/generative-ui/json-render"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative",
+  "title": "Hashbrown",
+  "url": "/langgraph-typescript/generative-ui/hashbrown"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Open-ended",
+  "title": "MCP Apps",
+  "url": "/langgraph-typescript/generative-ui/mcp-apps"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Open-ended",
+  "title": "Open Generative UI",
+  "url": "/langgraph-typescript/generative-ui/open-generative-ui"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Shared state",
+  "title": "Shared State",
+  "url": "/langgraph-typescript/shared-state"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Shared state",
+  "title": "Render agent state in your app",
+  "url": "/langgraph-typescript/shared-state/rendering-in-app"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Shared state",
+  "title": "State Streaming",
+  "url": "/langgraph-typescript/shared-state/streaming"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Shared state",
+  "title": "Agent Read-Only Context",
+  "url": "/langgraph-typescript/shared-state/agent-readonly"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Human-in-the-loop",
+  "title": "HITL Overview",
+  "url": "/langgraph-typescript/human-in-the-loop/index"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Human-in-the-loop",
+  "title": "Pausing the Agent for Input",
+  "url": "/langgraph-typescript/human-in-the-loop/useInterrupt"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Human-in-the-loop",
+  "title": "Headless Interrupts",
+  "url": "/langgraph-typescript/human-in-the-loop/headless"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Human-in-the-loop",
+  "title": "Governed Action Approval UI",
+  "url": "/langgraph-typescript/human-in-the-loop/governed-actions"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "",
+  "title": "WebMCP",
+  "url": "/langgraph-typescript/webmcp"
+ },
+ {
+  "section": "Agent capabilities",
+  "folder": "LangGraph (TypeScript)",
+  "title": "Readables",
+  "url": "/langgraph-typescript/agent-app-context"
+ },
+ {
+  "section": "Agent capabilities",
+  "folder": "LangGraph (TypeScript)",
+  "title": "Configurable",
+  "url": "/langgraph-typescript/configurable"
+ },
+ {
+  "section": "Agent capabilities",
+  "folder": "LangGraph (TypeScript)",
+  "title": "Subgraphs",
+  "url": "/langgraph-typescript/subgraphs"
+ },
+ {
+  "section": "Agent capabilities",
+  "folder": "LangGraph (TypeScript)",
+  "title": "Guardrails & DLP",
+  "url": "/langgraph-typescript/guardrails"
+ },
+ {
+  "section": "Agent capabilities",
+  "folder": "LangGraph (TypeScript)",
+  "title": "AWS AgentCore",
+  "url": "/langgraph-typescript/deploy-agentcore"
+ },
+ {
+  "section": "Agent capabilities",
+  "folder": "LangGraph (TypeScript)",
+  "title": "LangSmith Platform",
+  "url": "/langgraph-typescript/deploy-langsmith"
+ },
+ {
+  "section": "Agent capabilities",
+  "folder": "",
+  "title": "Sub-agents",
+  "url": "/langgraph-typescript/multi-agent/subagents"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Get started",
+  "title": "Quickstart",
+  "url": "/langgraph-typescript/intelligence/quickstart"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Get started",
+  "title": "Architecture",
+  "url": "/langgraph-typescript/intelligence/intelligence-platform"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Get started",
+  "title": "Plans",
+  "url": "/langgraph-typescript/intelligence/plans"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/AG-UI Streams",
+  "title": "Overview",
+  "url": "/langgraph-typescript/AG-UI-Streams"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/AG-UI Streams",
+  "title": "Bring your own thread system",
+  "url": "/langgraph-typescript/intelligence/bring-your-own-thread-system"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/AG-UI Streams",
+  "title": "Add to Existing Threads",
+  "url": "/langgraph-typescript/threads-import"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/AG-UI Streams",
+  "title": "Thread & History Lifecycle",
+  "url": "/langgraph-typescript/threads-lifecycle"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/AG-UI Streams",
+  "title": "Streams & Framework Threads",
+  "url": "/langgraph-typescript/intelligence/threads-explained"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Automatic Learning",
+  "title": "Automatic Learning",
+  "url": "/langgraph-typescript/learning"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Automatic Learning",
+  "title": "Skill delivery",
+  "url": "/langgraph-typescript/intelligence/learned-skills"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features",
+  "title": "User Memories",
+  "url": "/langgraph-typescript/intelligence/memories"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Trajectories",
+  "title": "Overview",
+  "url": "/langgraph-typescript/intelligence/trajectories"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Trajectories",
+  "title": "Quickstart",
+  "url": "/langgraph-typescript/intelligence/trajectories-quickstart"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Trajectories",
+  "title": "Capture interactions",
+  "url": "/langgraph-typescript/intelligence/capture-interactions"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Trajectories",
+  "title": "Captured data",
+  "url": "/langgraph-typescript/intelligence/captured-data"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Trajectories",
+  "title": "API reference",
+  "url": "/langgraph-typescript/intelligence/trajectories-reference"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features",
+  "title": "Standalone collector",
+  "url": "/langgraph-typescript/intelligence/standalone-collector"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features",
+  "title": "Product Analytics",
+  "url": "/langgraph-typescript/intelligence/analytics"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features",
+  "title": "Channels",
+  "url": "/langgraph-typescript/intelligence/channels"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Hosting",
+  "title": "Cloud-hosted",
+  "url": "/langgraph-typescript/intelligence/managed-intelligence-platform"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Hosting",
+  "title": "Self-hosted",
+  "url": "/langgraph-typescript/intelligence/self-hosting"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Hosting",
+  "title": "AWS ECS/Fargate",
+  "url": "/langgraph-typescript/intelligence/self-hosting-ecs"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Hosting",
+  "title": "Local evaluation",
+  "url": "/langgraph-typescript/intelligence/self-hosting-local"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "Copilot Runtime",
+  "url": "/langgraph-typescript/backend/copilot-runtime"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "Runtime HTTP endpoints",
+  "url": "/langgraph-typescript/backend/runtime-endpoints"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "Use any model router",
+  "url": "/langgraph-typescript/backend/custom-agent"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "Write your own AG-UI agent",
+  "url": "/langgraph-typescript/backend/custom-ag-ui-agent"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "AgentRunner and persistence",
+  "url": "/langgraph-typescript/backend/agent-runner"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "Message history",
+  "url": "/langgraph-typescript/backend/message-history"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "Self-managed agents",
+  "url": "/langgraph-typescript/backend/self-managed-agents"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "Connect AG-UI agents",
+  "url": "/langgraph-typescript/backend/ag-ui"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "Deploy to any runtime",
+  "url": "/langgraph-typescript/runtime-server-adapter"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "Authentication",
+  "url": "/langgraph-typescript/auth"
+ },
+ {
+  "section": "Backend",
+  "folder": "Deployment",
+  "title": "AWS AgentCore",
+  "url": "/langgraph-typescript/deploy/agentcore"
+ },
+ {
+  "section": "Backend",
+  "folder": "Deployment",
+  "title": "AWS Lambda",
+  "url": "/langgraph-typescript/deploy/aws-lambda"
+ },
+ {
+  "section": "Backend",
+  "folder": "Deployment",
+  "title": "LangSmith Platform",
+  "url": "/langgraph-typescript/deploy/langsmith"
+ },
+ {
+  "section": "Backend",
+  "folder": "Debugging",
+  "title": "Inspector",
+  "url": "/langgraph-typescript/inspector"
+ },
+ {
+  "section": "Backend",
+  "folder": "Debugging",
+  "title": "VS Code Extension",
+  "url": "/langgraph-typescript/vs-code-extension"
+ },
+ {
+  "section": "Learn",
+  "folder": "Concepts",
+  "title": "Architecture",
+  "url": "/langgraph-typescript/concepts/architecture"
+ },
+ {
+  "section": "Learn",
+  "folder": "Concepts",
+  "title": "Generative UI",
+  "url": "/langgraph-typescript/concepts/generative-ui-overview"
+ },
+ {
+  "section": "Learn",
+  "folder": "Concepts",
+  "title": "Which Hook for Which Job",
+  "url": "/langgraph-typescript/concepts/which-hook"
+ },
+ {
+  "section": "Learn",
+  "folder": "Concepts",
+  "title": "Open source vs Intelligence",
+  "url": "/langgraph-typescript/concepts/oss-vs-enterprise"
+ },
+ {
+  "section": "Learn",
+  "folder": "Concepts/Agentic Protocols",
+  "title": "Overview",
+  "url": "/langgraph-typescript/agentic-protocols"
+ },
+ {
+  "section": "Learn",
+  "folder": "Concepts/Agentic Protocols",
+  "title": "AG-UI",
+  "url": "/langgraph-typescript/agentic-protocols/ag-ui"
+ },
+ {
+  "section": "Learn",
+  "folder": "Concepts/Agentic Protocols",
+  "title": "AG-UI Middleware",
+  "url": "/langgraph-typescript/agentic-protocols/ag-ui-middleware"
+ },
+ {
+  "section": "Learn",
+  "folder": "Concepts/Agentic Protocols",
+  "title": "MCP",
+  "url": "/langgraph-typescript/agentic-protocols/mcp"
+ },
+ {
+  "section": "Learn",
+  "folder": "Concepts/Agentic Protocols",
+  "title": "A2A",
+  "url": "/langgraph-typescript/agentic-protocols/a2a"
+ },
+ {
+  "section": "Other",
+  "folder": "Contributing",
+  "title": "Code Contributions",
+  "url": "/langgraph-typescript/contributing/code-contributions"
+ },
+ {
+  "section": "Other",
+  "folder": "Contributing",
+  "title": "Documentation Contributions",
+  "url": "/langgraph-typescript/contributing/docs-contributions"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting",
+  "title": "Common Copilot Issues",
+  "url": "/langgraph-typescript/troubleshooting/common-issues"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting",
+  "title": "Error message reference",
+  "url": "/langgraph-typescript/troubleshooting/error-reference"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting",
+  "title": "Error Debugging & Observability",
+  "url": "/langgraph-typescript/troubleshooting/error-debugging"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting",
+  "title": "Inspector and dev console",
+  "url": "/langgraph-typescript/troubleshooting/inspector-dev-console"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting",
+  "title": "Debug Mode",
+  "url": "/langgraph-typescript/troubleshooting/debug-mode"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting",
+  "title": "AG-UI Event Inspector",
+  "url": "/langgraph-typescript/troubleshooting/event-inspector"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting",
+  "title": "Hook Explorer",
+  "url": "/langgraph-typescript/troubleshooting/hook-explorer"
+ },
+ {
+  "section": "Other",
+  "folder": "",
+  "title": "Open-source telemetry",
+  "url": "/langgraph-typescript/telemetry"
+ },
+ {
+  "section": "Other",
+  "folder": "",
+  "title": "Community frameworks",
+  "url": "/langgraph-typescript/community-frameworks"
+ }
+]
