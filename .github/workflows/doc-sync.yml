@@ -1,10 +1,13 @@
 name: doc-sync
 
-# Daily: detect CopilotKit doc changes for every harness repo in repos.conf,
-# apply them with Codex, and open draft PRs for review.
+# Detect CopilotKit doc changes for every harness repo in repos.conf, apply
+# them with Codex, and open draft PRs for review.
+#
+# DISABLED (2026-11-09): no schedule. Doc syncs run locally with the /doc-sync
+# Claude Code command instead. To bring the daily run back, re-add:
+#   schedule:
+#     - cron: "0 6 * * *" # 06:00 UTC = 11:00 PKT
 on:
-  schedule:
-    - cron: "0 6 * * *" # 06:00 UTC = 11:00 PKT. GitHub may start it a few minutes late.
   workflow_dispatch:
     inputs:
       repo:
