@@ -1,0 +1,452 @@
+[
+ {
+  "section": "Getting Started",
+  "folder": "",
+  "title": "Agno",
+  "url": "/agno"
+ },
+ {
+  "section": "Getting Started",
+  "folder": "",
+  "title": "Quickstart",
+  "url": "/agno/quickstart"
+ },
+ {
+  "section": "Getting Started",
+  "folder": "",
+  "title": "Build With Agents",
+  "url": "/agno/build-with-agents"
+ },
+ {
+  "section": "Getting Started",
+  "folder": "",
+  "title": "Overview",
+  "url": "/agno/intelligence/overview"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat",
+  "title": "Prebuilt Components",
+  "url": "/agno/prebuilt-components"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Custom Look and Feel",
+  "title": "Slots",
+  "url": "/agno/custom-look-and-feel/slots"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Custom Look and Feel",
+  "title": "Headless UI",
+  "url": "/agno/custom-look-and-feel/headless-ui"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat",
+  "title": "Programmatic Control",
+  "url": "/agno/programmatic-control"
+ },
+ {
+  "section": "Basics",
+  "folder": "Threads",
+  "title": "Threads Drawer",
+  "url": "/agno/prebuilt-components/copilot-threads-drawer"
+ },
+ {
+  "section": "Basics",
+  "folder": "Threads",
+  "title": "Headless Threads",
+  "url": "/agno/headless-threads"
+ },
+ {
+  "section": "Basics",
+  "folder": "",
+  "title": "Frontend-tools",
+  "url": "/agno/frontend-tools"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Controlled",
+  "title": "Components as Tools",
+  "url": "/agno/generative-ui/tool-based"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Controlled",
+  "title": "Tool Call Rendering",
+  "url": "/agno/generative-ui/tool-rendering"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Controlled",
+  "title": "State Rendering",
+  "url": "/agno/generative-ui/state-rendering"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Components and surfaces",
+  "url": "/agno/generative-ui/components"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Surfaces",
+  "url": "/agno/generative-ui/components/surfaces"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Catalogs",
+  "url": "/agno/generative-ui/components/catalogs"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Standard catalog",
+  "url": "/agno/generative-ui/components/standard-catalog"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "State and actions",
+  "url": "/agno/generative-ui/components/state-and-actions"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Theming",
+  "url": "/agno/generative-ui/components/theming"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Transports",
+  "url": "/agno/generative-ui/components/transports"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Markdown mode",
+  "url": "/agno/generative-ui/components/markdown-mode"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Adopt from A2UI",
+  "url": "/agno/generative-ui/components/from-a2ui"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/A2UI",
+  "title": "A2UI",
+  "url": "/agno/generative-ui/a2ui"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/A2UI",
+  "title": "Dynamic Schema A2UI",
+  "url": "/agno/generative-ui/a2ui/dynamic-schema"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/A2UI",
+  "title": "Fixed Schema A2UI",
+  "url": "/agno/generative-ui/a2ui/fixed-schema"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative",
+  "title": "JSON Render",
+  "url": "/agno/generative-ui/json-render"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative",
+  "title": "Hashbrown",
+  "url": "/agno/generative-ui/hashbrown"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Open-ended",
+  "title": "MCP Apps",
+  "url": "/agno/generative-ui/mcp-apps"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Open-ended",
+  "title": "Open Generative UI",
+  "url": "/agno/generative-ui/open-generative-ui"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Shared state",
+  "title": "Shared State",
+  "url": "/agno/shared-state"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Shared state",
+  "title": "Render agent state in your app",
+  "url": "/agno/shared-state/rendering-in-app"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Shared state",
+  "title": "State Streaming",
+  "url": "/agno/shared-state/streaming"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Shared state",
+  "title": "Agent Read-Only Context",
+  "url": "/agno/shared-state/agent-readonly"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Human-in-the-loop",
+  "title": "HITL Overview",
+  "url": "/agno/human-in-the-loop/index"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Human-in-the-loop",
+  "title": "Pausing the Agent for Input",
+  "url": "/agno/human-in-the-loop/useInterrupt"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Human-in-the-loop",
+  "title": "Headless Interrupts",
+  "url": "/agno/human-in-the-loop/headless"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Human-in-the-loop",
+  "title": "Governed Action Approval UI",
+  "url": "/agno/human-in-the-loop/governed-actions"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "",
+  "title": "WebMCP",
+  "url": "/agno/webmcp"
+ },
+ {
+  "section": "Agent capabilities",
+  "folder": "",
+  "title": "Sub-agents",
+  "url": "/agno/multi-agent/subagents"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Get started",
+  "title": "Quickstart",
+  "url": "/agno/intelligence/quickstart"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Get started",
+  "title": "Architecture",
+  "url": "/agno/intelligence/intelligence-platform"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Get started",
+  "title": "Plans",
+  "url": "/agno/intelligence/plans"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/AG-UI Streams",
+  "title": "Overview",
+  "url": "/agno/AG-UI-Streams"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/AG-UI Streams",
+  "title": "Bring your own thread system",
+  "url": "/agno/intelligence/bring-your-own-thread-system"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/AG-UI Streams",
+  "title": "Add to Existing Threads",
+  "url": "/agno/threads-import"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/AG-UI Streams",
+  "title": "Thread & History Lifecycle",
+  "url": "/agno/threads-lifecycle"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/AG-UI Streams",
+  "title": "Streams & Framework Threads",
+  "url": "/agno/intelligence/threads-explained"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Automatic Learning",
+  "title": "Automatic Learning",
+  "url": "/agno/learning"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Automatic Learning",
+  "title": "Skill delivery",
+  "url": "/agno/intelligence/learned-skills"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features",
+  "title": "User Memories",
+  "url": "/agno/intelligence/memories"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Trajectories",
+  "title": "Overview",
+  "url": "/agno/intelligence/trajectories"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Trajectories",
+  "title": "Quickstart",
+  "url": "/agno/intelligence/trajectories-quickstart"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Trajectories",
+  "title": "Capture interactions",
+  "url": "/agno/intelligence/capture-interactions"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Trajectories",
+  "title": "Captured data",
+  "url": "/agno/intelligence/captured-data"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Trajectories",
+  "title": "API reference",
+  "url": "/agno/intelligence/trajectories-reference"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features",
+  "title": "Standalone collector",
+  "url": "/agno/intelligence/standalone-collector"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features",
+  "title": "Product Analytics",
+  "url": "/agno/intelligence/analytics"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features",
+  "title": "Channels",
+  "url": "/agno/intelligence/channels"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Hosting",
+  "title": "Cloud-hosted",
+  "url": "/agno/intelligence/managed-intelligence-platform"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Hosting",
+  "title": "Self-hosted",
+  "url": "/agno/intelligence/self-hosting"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Hosting",
+  "title": "AWS ECS/Fargate",
+  "url": "/agno/intelligence/self-hosting-ecs"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Hosting",
+  "title": "Local evaluation",
+  "url": "/agno/intelligence/self-hosting-local"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "Copilot Runtime",
+  "url": "/agno/copilot-runtime"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "AG-UI",
+  "url": "/agno/ag-ui"
+ },
+ {
+  "section": "Backend",
+  "folder": "Debugging",
+  "title": "Inspector",
+  "url": "/agno/inspector"
+ },
+ {
+  "section": "Other",
+  "folder": "Contributing",
+  "title": "Code Contributions",
+  "url": "/agno/contributing/code-contributions"
+ },
+ {
+  "section": "Other",
+  "folder": "Contributing",
+  "title": "Documentation Contributions",
+  "url": "/agno/contributing/docs-contributions"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting",
+  "title": "Migrate to V2",
+  "url": "/agno/troubleshooting/migrate-to-v2"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting",
+  "title": "Error Debugging & Observability",
+  "url": "/agno/troubleshooting/error-debugging"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting",
+  "title": "Common Copilot Issues",
+  "url": "/agno/troubleshooting/common-issues"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting",
+  "title": "Migrate to 1.10.X",
+  "url": "/agno/troubleshooting/migrate-to-1.10.X"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting",
+  "title": "Migrate to 1.8.2",
+  "url": "/agno/troubleshooting/migrate-to-1.8.2"
+ },
+ {
+  "section": "Other",
+  "folder": "",
+  "title": "Open-source telemetry",
+  "url": "/agno/telemetry"
+ },
+ {
+  "section": "Other",
+  "folder": "",
+  "title": "Community frameworks",
+  "url": "/agno/community-frameworks"
+ }
+]
