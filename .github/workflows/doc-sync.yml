@@ -88,7 +88,7 @@ jobs:
       - name: Apply with Codex
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          CODEX_MODEL: ${{ vars.CODEX_MODEL }}
+          CODEX_MODEL: ${{ vars.CODEX_MODEL || 'gpt-6-luna' }}
           CODEX_EFFORT: ${{ vars.CODEX_EFFORT }}
           CODEX_TIMEOUT: ${{ vars.CODEX_TIMEOUT || '2400' }}
           NODE_OPTIONS: --max-old-space-size=6144

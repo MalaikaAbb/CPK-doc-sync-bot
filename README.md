@@ -102,7 +102,7 @@ Same page, **Variables** tab. Everything has a default:
 
 | Variable | Default | What it does |
 |---|---|---|
-| `CODEX_MODEL` | Codex's default | Model to use |
+| `CODEX_MODEL` | `gpt-6-luna` | Model to use (set in the workflow file; this variable overrides it) |
 | `CODEX_EFFORT` | Codex's default | `low` / `medium` / `high` reasoning effort |
 | `CODEX_TIMEOUT` | `2400` | Seconds allowed per doc page |
 | `CODEX_VERSION` | `0.167.0` | Codex CLI version installed on the runner |
