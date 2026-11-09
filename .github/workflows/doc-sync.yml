@@ -1,0 +1,140 @@
+name: doc-sync
+
+# Daily: detect CopilotKit doc changes for every harness repo in repos.conf,
+# apply them with Codex, and open draft PRs for review.
+on:
+  schedule:
+    - cron: "0 6 * * *" # 06:00 UTC = 11:00 PKT. GitHub may start it a few minutes late.
+  workflow_dispatch:
+    inputs:
+      repo:
+        description: "Only this repo (a name from repos.conf). Empty = all."
+        required: false
+        default: ""
+      dry_run:
+        description: "Detect and run Codex, but push nothing and open no PRs."
+        type: boolean
+        default: false
+
+concurrency:
+  group: doc-sync
+  cancel-in-progress: false
+
+permissions:
+  contents: write # finalize commits state/ back to this repo
+
+env:
+  BOT_DIR: ${{ github.workspace }}
+  WORK_ROOT: ${{ github.workspace }}/../work
+  DRY_RUN: ${{ inputs.dry_run || 'false' }}
+  MIN_SEVERITY: ${{ vars.MIN_SEVERITY || 'medium' }}
+  CODEX_VERSION: ${{ vars.CODEX_VERSION || '0.167.0' }}
+
+jobs:
+  detect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    outputs:
+      matrix: ${{ steps.matrix.outputs.matrix }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - run: npm ci --prefix detect --no-audit --no-fund
+      - name: Detect changes and plan PRs
+        env:
+          GH_TOKEN: ${{ secrets.HARNESS_PAT }}
+        run: bin/detect-all.sh "${{ inputs.repo }}"
+      - id: matrix
+        if: always()
+        run: echo "matrix=$(cat "$WORK_ROOT/matrix.json" 2>/dev/null || echo '[]')" >> "$GITHUB_OUTPUT"
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: plans
+          path: |
+            ${{ env.WORK_ROOT }}/out
+            ${{ env.WORK_ROOT }}/results
+          if-no-files-found: ignore
+
+  apply:
+    needs: detect
+    if: always() && needs.detect.outputs.matrix != '[]' && needs.detect.outputs.matrix != ''
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    strategy:
+      fail-fast: false
+      max-parallel: 3 # keeps Codex under rate limits; raise once you trust it
+      matrix:
+        unit: ${{ fromJSON(needs.detect.outputs.matrix) }}
+    name: apply ${{ matrix.unit.id }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false # Codex runs in this job: leave no token on disk
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - uses: astral-sh/setup-uv@v6
+      - uses: actions/download-artifact@v4
+        with:
+          name: plans
+          path: ${{ env.WORK_ROOT }}
+      - run: npm ci --prefix detect --no-audit --no-fund
+      - run: npm install -g "@openai/codex@$CODEX_VERSION"
+      - name: Apply with Codex
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          CODEX_MODEL: ${{ vars.CODEX_MODEL }}
+          CODEX_EFFORT: ${{ vars.CODEX_EFFORT }}
+          CODEX_TIMEOUT: ${{ vars.CODEX_TIMEOUT || '2400' }}
+          NODE_OPTIONS: --max-old-space-size=6144
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: bin/apply-unit.sh "$WORK_ROOT/out/${{ matrix.unit.repo }}/unit-${{ matrix.unit.id }}.json"
+      - name: Push and open PR
+        env:
+          GH_TOKEN: ${{ secrets.HARNESS_PAT }}
+        run: bin/open-pr.sh "$WORK_ROOT/out/${{ matrix.unit.repo }}/unit-${{ matrix.unit.id }}.json"
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: result-${{ matrix.unit.id }}
+          path: ${{ env.WORK_ROOT }}/results/${{ matrix.unit.id }}
+          if-no-files-found: ignore
+
+  finalize:
+    needs: [detect, apply]
+    if: always() && needs.detect.result != 'skipped' && needs.detect.result != 'cancelled'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          name: plans
+          path: ${{ env.WORK_ROOT }}
+      - uses: actions/download-artifact@v4
+        continue-on-error: true # no apply jobs ran → no result artifacts
+        with:
+          pattern: result-*
+          path: ${{ env.WORK_ROOT }}/results-matrix
+      - name: Merge per-unit results
+        run: |
+          mkdir -p "$WORK_ROOT/results"
+          for d in "$WORK_ROOT"/results-matrix/result-*; do
+            [ -d "$d" ] && cp -r "$d" "$WORK_ROOT/results/${d##*/result-}"
+          done
+      - name: Record handled changes and sidebar baseline
+        run: python3 -I bin/helper.py finalize state "$WORK_ROOT/out" "$WORK_ROOT/results"
+      - name: Commit state
+        if: env.DRY_RUN != 'true'
+        run: |
+          # Also keeps this repo active, so GitHub doesn't switch off the schedule after 60 days.
+          date -u +%FT%TZ > state/last-run
+          git config user.name  "doc-sync-bot"
+          git config user.email "doc-sync-bot@users.noreply.github.com"
+          git add state
+          git commit -q -m "state: doc-sync run ${{ github.run_id }}" || exit 0
+          git push -q
