@@ -25,7 +25,9 @@ permissions:
 
 env:
   BOT_DIR: ${{ github.workspace }}
-  WORK_ROOT: ${{ github.workspace }}/../work
+  # Inside the checkout: upload-artifact rejects paths containing "..", and
+  # skips hidden (dot) folders, so no "../work" and no ".work".
+  WORK_ROOT: ${{ github.workspace }}/_work
   DRY_RUN: ${{ inputs.dry_run || 'false' }}
   MIN_SEVERITY: ${{ vars.MIN_SEVERITY || 'medium' }}
   CODEX_VERSION: ${{ vars.CODEX_VERSION || '0.167.0' }}
@@ -79,6 +81,8 @@ jobs:
         with:
           node-version: 24
       - uses: astral-sh/setup-uv@v6
+        with:
+          enable-cache: false # the harness repo is cloned later, so there's nothing to key a cache on
       - uses: actions/download-artifact@v4
         with:
           name: plans
