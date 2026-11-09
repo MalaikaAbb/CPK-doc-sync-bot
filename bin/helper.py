@@ -193,6 +193,9 @@ def prbody(unit_path, run_dir):
                  "commit per page.\n")
     w.append("> Draft, opened by doc-sync-bot. Nothing here has been run in a browser. "
              "Test the routes using the README walkthrough before merging.\n")
+    note = read(run / "lockfile-note")
+    if note:
+        w.append(f"**⚠️ Lockfile fix included:**\n{note}\n")
     w.append("| Page | Route(s) | Severity | Result |\n|---|---|---|---|")
     for n, p in enumerate(unit["pages"], 1):
         routes = ", ".join(f"`{r}`" for r in p["routes"]) or "new"
