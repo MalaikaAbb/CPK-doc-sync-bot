@@ -73,6 +73,12 @@
  },
  {
   "section": "Basics",
+  "folder": "Chat/Custom Look and Feel",
+  "title": "Reasoning Messages",
+  "url": "/strands/custom-look-and-feel/reasoning-messages"
+ },
+ {
+  "section": "Basics",
   "folder": "Chat",
   "title": "Multimodal Attachments",
   "url": "/strands/multimodal-attachments"
@@ -82,6 +88,12 @@
   "folder": "Chat",
   "title": "Voice",
   "url": "/strands/voice"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat",
+  "title": "Reasoning",
+  "url": "/strands/generative-ui/reasoning"
  },
  {
   "section": "Basics",
@@ -112,6 +124,72 @@
   "folder": "Controlled",
   "title": "Tool Call Rendering",
   "url": "/strands/generative-ui/tool-rendering"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Controlled",
+  "title": "State Rendering",
+  "url": "/strands/generative-ui/state-rendering"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Components and surfaces",
+  "url": "/strands/generative-ui/components"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Surfaces",
+  "url": "/strands/generative-ui/components/surfaces"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Catalogs",
+  "url": "/strands/generative-ui/components/catalogs"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Standard catalog",
+  "url": "/strands/generative-ui/components/standard-catalog"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "State and actions",
+  "url": "/strands/generative-ui/components/state-and-actions"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Theming",
+  "url": "/strands/generative-ui/components/theming"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Transports",
+  "url": "/strands/generative-ui/components/transports"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Markdown mode",
+  "url": "/strands/generative-ui/components/markdown-mode"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Adopt from A2UI",
+  "url": "/strands/generative-ui/components/from-a2ui"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/A2UI",
+  "title": "A2UI",
+  "url": "/strands/generative-ui/a2ui"
  },
  {
   "section": "Generative UI",
@@ -152,14 +230,38 @@
  {
   "section": "Interactivity",
   "folder": "Shared state",
+  "title": "Shared State",
+  "url": "/strands/shared-state"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Shared state",
   "title": "Render agent state in your app",
   "url": "/strands/shared-state/rendering-in-app"
  },
  {
   "section": "Interactivity",
   "folder": "Shared state",
+  "title": "State Streaming",
+  "url": "/strands/shared-state/streaming"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Shared state",
   "title": "Agent Read-Only Context",
   "url": "/strands/shared-state/agent-readonly"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Human-in-the-loop",
+  "title": "HITL Overview",
+  "url": "/strands/human-in-the-loop/index"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Human-in-the-loop",
+  "title": "Pausing the Agent for Input",
+  "url": "/strands/human-in-the-loop/useInterrupt"
  },
  {
   "section": "Interactivity",
@@ -172,6 +274,12 @@
   "folder": "Human-in-the-loop",
   "title": "Governed Action Approval UI",
   "url": "/strands/human-in-the-loop/governed-actions"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "",
+  "title": "WebMCP",
+  "url": "/strands/webmcp"
  },
  {
   "section": "Agent capabilities",
@@ -196,6 +304,30 @@
   "folder": "AWS Strands (Python)",
   "title": "AG-UI",
   "url": "/strands/ag-ui"
+ },
+ {
+  "section": "Agent capabilities",
+  "folder": "AWS Strands (Python)",
+  "title": "AWS AgentCore",
+  "url": "/strands/deploy-agentcore"
+ },
+ {
+  "section": "Agent capabilities",
+  "folder": "AWS Strands (Python)",
+  "title": "Migrate to V2",
+  "url": "/strands/troubleshooting/migrate-to-v2"
+ },
+ {
+  "section": "Agent capabilities",
+  "folder": "AWS Strands (Python)",
+  "title": "Migrate to 1.10.X",
+  "url": "/strands/troubleshooting/migrate-to-1.10.X"
+ },
+ {
+  "section": "Agent capabilities",
+  "folder": "AWS Strands (Python)",
+  "title": "Migrate to 1.8.2",
+  "url": "/strands/troubleshooting/migrate-to-1.8.2"
  },
  {
   "section": "Agent capabilities",
