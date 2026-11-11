@@ -55,9 +55,21 @@
  },
  {
   "section": "Basics",
+  "folder": "Threads",
+  "title": "Headless Threads",
+  "url": "/mastra/headless-threads"
+ },
+ {
+  "section": "Basics",
   "folder": "",
   "title": "Frontend-tools",
   "url": "/mastra/frontend-tools"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Controlled",
+  "title": "Components as Tools",
+  "url": "/mastra/generative-ui/tool-based"
  },
  {
   "section": "Generative UI",
@@ -73,6 +85,66 @@
  },
  {
   "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Components and surfaces",
+  "url": "/mastra/generative-ui/components"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Surfaces",
+  "url": "/mastra/generative-ui/components/surfaces"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Catalogs",
+  "url": "/mastra/generative-ui/components/catalogs"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Standard catalog",
+  "url": "/mastra/generative-ui/components/standard-catalog"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "State and actions",
+  "url": "/mastra/generative-ui/components/state-and-actions"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Theming",
+  "url": "/mastra/generative-ui/components/theming"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Transports",
+  "url": "/mastra/generative-ui/components/transports"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Markdown mode",
+  "url": "/mastra/generative-ui/components/markdown-mode"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Adopt from A2UI",
+  "url": "/mastra/generative-ui/components/from-a2ui"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/A2UI",
+  "title": "A2UI",
+  "url": "/mastra/generative-ui/a2ui"
+ },
+ {
+  "section": "Generative UI",
   "folder": "Declarative/A2UI",
   "title": "Dynamic Schema A2UI",
   "url": "/mastra/generative-ui/a2ui/dynamic-schema"
@@ -82,6 +154,24 @@
   "folder": "Declarative/A2UI",
   "title": "Fixed Schema A2UI",
   "url": "/mastra/generative-ui/a2ui/fixed-schema"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative",
+  "title": "JSON Render",
+  "url": "/mastra/generative-ui/json-render"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative",
+  "title": "Hashbrown",
+  "url": "/mastra/generative-ui/hashbrown"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Open-ended",
+  "title": "MCP Apps",
+  "url": "/mastra/generative-ui/mcp-apps"
  },
  {
   "section": "Generative UI",
@@ -110,6 +200,12 @@
  {
   "section": "Interactivity",
   "folder": "Human-in-the-loop",
+  "title": "HITL Overview",
+  "url": "/mastra/human-in-the-loop/index"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Human-in-the-loop",
   "title": "Pausing the Agent for Input",
   "url": "/mastra/human-in-the-loop/useInterrupt"
  },
@@ -124,6 +220,12 @@
   "folder": "Human-in-the-loop",
   "title": "Governed Action Approval UI",
   "url": "/mastra/human-in-the-loop/governed-actions"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "",
+  "title": "WebMCP",
+  "url": "/mastra/webmcp"
  },
  {
   "section": "Agent capabilities",

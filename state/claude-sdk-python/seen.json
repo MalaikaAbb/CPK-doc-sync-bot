@@ -1,11 +1,25 @@
 {
  "pages": {
+  "/claude-sdk-python": "8784d1a7efdaa9dfb715f44da65813d738fcc19c536c415d1102388c3b7380a0",
+  "/claude-sdk-python/custom-look-and-feel/headless-ui": "b8ec29597066ffe5e4c1ed08a44b26dfbd5a9ba7e1140f98e7a07baa2365502d",
   "/claude-sdk-python/custom-look-and-feel/reasoning-messages": "43ea8cc3a3e8dcb599cfe13e16aed14c12bab3ea55deeedd312ff7bbbc12ae08",
+  "/claude-sdk-python/custom-look-and-feel/slots": "f6c40b244179939931d17a1f21ee8e23134fc05d19f0b81556806378f61c2c52",
+  "/claude-sdk-python/frontend-tools": "f53a7e22a161edaaee73e133efaab0c1dea1bedbad77dcec5d9226eaf96ce885",
+  "/claude-sdk-python/generative-ui/a2ui/dynamic-schema": "f8d4dbdaadbd448efd886b58b207d255e101a9a8cf01aad8792fb8a3462aa831",
   "/claude-sdk-python/generative-ui/a2ui/fixed-schema": "e9b64c915b91a47f1c177c8c000b7077092876e77324ee9c3f67a6fe828f8017",
   "/claude-sdk-python/generative-ui/reasoning": "ec267500ed7296682ba35af3cd436815faf742cb6df48c6c472d76d1d2359c5d",
+  "/claude-sdk-python/generative-ui/tool-based": "a7583e3641a67f0847c70823740e34af70b71e907162db9ab793785652f196e8",
+  "/claude-sdk-python/generative-ui/tool-rendering": "64eb12931b1fd5a5f9de27da6eeb75396b44b220664a9945c7967392cb3ef9fe",
+  "/claude-sdk-python/headless-threads": "ecd1b6b601c996790b7c9d8372e50f1a32af43031183f51a1ad583837b114a7f",
   "/claude-sdk-python/multi-agent/subagents": "59c2a8cc8a667bcbb363749e97ecf867d63a7decac09e9d384f88978d4979fd8",
+  "/claude-sdk-python/prebuilt-components/chat": "2870ca40d299d54f84886a2bf93eac08998f0b23046866132c7329df983407db",
   "/claude-sdk-python/prebuilt-components/chat-controls": "f2bd36de005bec226297599ebd2e78183539e2c79bace1bcfa1a631cfbd21a56",
+  "/claude-sdk-python/prebuilt-components/copilot-threads-drawer": "57f53600e847e16467e63bdf7eae77a996c5439a604eb5dc103ebab20bbb2eae",
+  "/claude-sdk-python/prebuilt-components/popup": "d6008d6791fd1cc3a8b5de3e66d72c358ec74a3afa97128e9b211df4c9d31124",
+  "/claude-sdk-python/prebuilt-components/sidebar": "f68d8a89b167f0e1a454b92220d62e5f087493fe7f09371bd9e2c466837c1da4",
   "/claude-sdk-python/programmatic-control": "00df75aba8de83d8253be16bfdbd517f4d38136761a41ba72596378afe50ccea",
+  "/claude-sdk-python/quickstart": "8784d1a7efdaa9dfb715f44da65813d738fcc19c536c415d1102388c3b7380a0",
+  "/claude-sdk-python/threads-lifecycle": "09597c5b6aef715e3e3262fa8b59d4c8515d989da27e1f8b0a3dd76d6f39596a",
   "/claude-sdk-python/voice": "926dc625c0472c0c0600887f53da585d84038ac0ad884007965bb635aadfc0a7"
  }
 }

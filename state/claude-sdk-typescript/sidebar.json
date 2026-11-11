@@ -62,6 +62,12 @@
  {
   "section": "Basics",
   "folder": "Chat/Custom Look and Feel",
+  "title": "Markdown Rendering",
+  "url": "/claude-sdk-typescript/custom-look-and-feel/markdown"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Custom Look and Feel",
   "title": "Headless UI",
   "url": "/claude-sdk-typescript/custom-look-and-feel/headless-ui"
  },
@@ -175,6 +181,18 @@
  },
  {
   "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Adopt from A2UI",
+  "url": "/claude-sdk-typescript/generative-ui/components/from-a2ui"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/A2UI",
+  "title": "A2UI",
+  "url": "/claude-sdk-typescript/generative-ui/a2ui"
+ },
+ {
+  "section": "Generative UI",
   "folder": "Declarative/A2UI",
   "title": "Dynamic Schema A2UI",
   "url": "/claude-sdk-typescript/generative-ui/a2ui/dynamic-schema"
@@ -196,6 +214,18 @@
   "folder": "Declarative",
   "title": "Hashbrown",
   "url": "/claude-sdk-typescript/generative-ui/hashbrown"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Open-ended",
+  "title": "MCP Apps",
+  "url": "/claude-sdk-typescript/generative-ui/mcp-apps"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Open-ended",
+  "title": "Open Generative UI",
+  "url": "/claude-sdk-typescript/generative-ui/open-generative-ui"
  },
  {
   "section": "Interactivity",
@@ -220,6 +250,36 @@
   "folder": "Shared state",
   "title": "Agent Read-Only Context",
   "url": "/claude-sdk-typescript/shared-state/agent-readonly"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Human-in-the-loop",
+  "title": "HITL Overview",
+  "url": "/claude-sdk-typescript/human-in-the-loop/index"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Human-in-the-loop",
+  "title": "Pausing the Agent for Input",
+  "url": "/claude-sdk-typescript/human-in-the-loop/useInterrupt"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Human-in-the-loop",
+  "title": "Headless Interrupts",
+  "url": "/claude-sdk-typescript/human-in-the-loop/headless"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Human-in-the-loop",
+  "title": "Governed Action Approval UI",
+  "url": "/claude-sdk-typescript/human-in-the-loop/governed-actions"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "",
+  "title": "WebMCP",
+  "url": "/claude-sdk-typescript/webmcp"
  },
  {
   "section": "Agent capabilities",

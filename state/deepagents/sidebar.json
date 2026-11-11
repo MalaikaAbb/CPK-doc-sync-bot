@@ -26,8 +26,38 @@
  {
   "section": "Basics",
   "folder": "Chat/Prebuilt Components",
+  "title": "CopilotChat",
+  "url": "/deepagents/prebuilt-components/chat"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Prebuilt Components",
+  "title": "CopilotSidebar",
+  "url": "/deepagents/prebuilt-components/sidebar"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Prebuilt Components",
+  "title": "CopilotPopup",
+  "url": "/deepagents/prebuilt-components/popup"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Prebuilt Components",
   "title": "Open, close, and feedback",
   "url": "/deepagents/prebuilt-components/chat-controls"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Custom Look and Feel",
+  "title": "CSS Customization",
+  "url": "/deepagents/custom-look-and-feel/css"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Custom Look and Feel",
+  "title": "Slots (Subcomponents)",
+  "url": "/deepagents/custom-look-and-feel/slots"
  },
  {
   "section": "Basics",
@@ -37,9 +67,33 @@
  },
  {
   "section": "Basics",
+  "folder": "Chat/Custom Look and Feel",
+  "title": "Headless UI",
+  "url": "/deepagents/custom-look-and-feel/headless-ui"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Custom Look and Feel",
+  "title": "Reasoning Messages",
+  "url": "/deepagents/custom-look-and-feel/reasoning-messages"
+ },
+ {
+  "section": "Basics",
   "folder": "Chat",
   "title": "Multimodal Attachments",
   "url": "/deepagents/multimodal-attachments"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat",
+  "title": "Voice",
+  "url": "/deepagents/voice"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat",
+  "title": "Reasoning",
+  "url": "/deepagents/generative-ui/reasoning"
  },
  {
   "section": "Basics",
@@ -62,6 +116,12 @@
  {
   "section": "Generative UI",
   "folder": "Controlled",
+  "title": "Components as Tools",
+  "url": "/deepagents/generative-ui/tool-based"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Controlled",
   "title": "Tool Call Rendering",
   "url": "/deepagents/generative-ui/tool-rendering"
  },
@@ -70,6 +130,66 @@
   "folder": "Controlled",
   "title": "State Rendering",
   "url": "/deepagents/generative-ui/state-rendering"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Components and surfaces",
+  "url": "/deepagents/generative-ui/components"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Surfaces",
+  "url": "/deepagents/generative-ui/components/surfaces"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Catalogs",
+  "url": "/deepagents/generative-ui/components/catalogs"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Standard catalog",
+  "url": "/deepagents/generative-ui/components/standard-catalog"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "State and actions",
+  "url": "/deepagents/generative-ui/components/state-and-actions"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Theming",
+  "url": "/deepagents/generative-ui/components/theming"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Transports",
+  "url": "/deepagents/generative-ui/components/transports"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Markdown mode",
+  "url": "/deepagents/generative-ui/components/markdown-mode"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Adopt from A2UI",
+  "url": "/deepagents/generative-ui/components/from-a2ui"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/A2UI",
+  "title": "A2UI",
+  "url": "/deepagents/generative-ui/a2ui"
  },
  {
   "section": "Generative UI",
@@ -82,6 +202,30 @@
   "folder": "Declarative/A2UI",
   "title": "Fixed Schema A2UI",
   "url": "/deepagents/generative-ui/a2ui/fixed-schema"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative",
+  "title": "JSON Render",
+  "url": "/deepagents/generative-ui/json-render"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative",
+  "title": "Hashbrown",
+  "url": "/deepagents/generative-ui/hashbrown"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Open-ended",
+  "title": "MCP Apps",
+  "url": "/deepagents/generative-ui/mcp-apps"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Open-ended",
+  "title": "Open Generative UI",
+  "url": "/deepagents/generative-ui/open-generative-ui"
  },
  {
   "section": "Interactivity",
@@ -116,6 +260,24 @@
  {
   "section": "Interactivity",
   "folder": "Human-in-the-loop",
+  "title": "HITL Overview",
+  "url": "/deepagents/human-in-the-loop/index"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Human-in-the-loop",
+  "title": "Pausing the Agent for Input",
+  "url": "/deepagents/human-in-the-loop/useInterrupt"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Human-in-the-loop",
+  "title": "Headless Interrupts",
+  "url": "/deepagents/human-in-the-loop/headless"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Human-in-the-loop",
   "title": "Governed Action Approval UI",
   "url": "/deepagents/human-in-the-loop/governed-actions"
  },
@@ -124,6 +286,12 @@
   "folder": "",
   "title": "WebMCP",
   "url": "/deepagents/webmcp"
+ },
+ {
+  "section": "Agent capabilities",
+  "folder": "",
+  "title": "Sub-agents",
+  "url": "/deepagents/multi-agent/subagents"
  },
  {
   "section": "Intelligence",

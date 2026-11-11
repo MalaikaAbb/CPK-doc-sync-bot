@@ -1,3 +1,18 @@
 {
- "pages": {}
+ "pages": {
+  "/generative-ui/components/standard-catalog": "42fd29a3daa041eb9c0c3e5c4a659989bc81272b81e2919f48edf4a4a8c2012d",
+  "/strands-typescript/generative-ui/a2ui/dynamic-schema": "706aaf55243fb3d837ee3628e759e2205cb024c5938004c08f48d0b5dea1eaf4",
+  "/strands-typescript/generative-ui/components/catalogs": "4730e3a390a54868eafa0f942cbe76bc4ab16197e3a7eefe69f1c76aef240872",
+  "/strands-typescript/generative-ui/components/from-a2ui": "478ad198376acfd782176d93fd01bc847338d7a8f67355ee6903d563305f3da6",
+  "/strands-typescript/generative-ui/components/markdown-mode": "db568aab72fc0bdf28787b8163af6dccd386ce7d85a6f807aedfbae8c3491eb0",
+  "/strands-typescript/generative-ui/components/state-and-actions": "58cd01d15c0c6bed1b7f35a39fea1421da930682ddea5460d567c275c1f88cd4",
+  "/strands-typescript/generative-ui/components/surfaces": "fccd691f1cd00351a523bf8dc57bb21d951b4c0dc395fc3e2731927f3fa99c39",
+  "/strands-typescript/generative-ui/components/theming": "9fd29e6c376088733371c5862401ba5faf8ed042dfd2ae15d2f70d844d316153",
+  "/strands-typescript/generative-ui/components/transports": "78f9decdff09a312f899ad95290ae5f48d7917a01514170cbd404b8a5fb492a8",
+  "/strands-typescript/generative-ui/mcp-apps": "0af87040e954ded64b4ab87e9385b323a232fa966363e42ca5529c8732e4586b",
+  "/strands-typescript/multi-agent/subagents": "fe17d03c6e85dd569ec32623fdcdf619139dbc89dd9a6964051aba54f3bd1413",
+  "/strands-typescript/quickstart": "b2c3b6747c6d166c673edd195d6d163a737a56a334f06ef0a595d1e587dc4a43",
+  "/strands-typescript/shared-state/in-app-agent-read": "12c5a170e0ef49b76f5c3125e23eb7c75b6fd144c373913900125cc888a12080",
+  "/strands-typescript/shared-state/in-app-agent-write": "bcc949a66d64421a8ca6777428c7ff46091b5fa6c4814df29f1493754e2e3a27"
+ }
 }

@@ -79,6 +79,12 @@
  },
  {
   "section": "Generative UI",
+  "folder": "Controlled",
+  "title": "State Rendering",
+  "url": "/generative-ui/state-rendering"
+ },
+ {
+  "section": "Generative UI",
   "folder": "Declarative/Components and surfaces",
   "title": "Components and surfaces",
   "url": "/generative-ui/components"
@@ -134,6 +140,12 @@
  {
   "section": "Generative UI",
   "folder": "Declarative/A2UI",
+  "title": "A2UI",
+  "url": "/generative-ui/a2ui"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/A2UI",
   "title": "Dynamic Schema A2UI",
   "url": "/generative-ui/a2ui/dynamic-schema"
  },
@@ -182,6 +194,12 @@
  {
   "section": "Interactivity",
   "folder": "Shared state",
+  "title": "State Streaming",
+  "url": "/shared-state/streaming"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Shared state",
   "title": "Agent Read-Only Context",
   "url": "/shared-state/agent-readonly"
  },
@@ -190,6 +208,18 @@
   "folder": "Human-in-the-loop",
   "title": "HITL Overview",
   "url": "/human-in-the-loop/index"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Human-in-the-loop",
+  "title": "Pausing the Agent for Input",
+  "url": "/human-in-the-loop/useInterrupt"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Human-in-the-loop",
+  "title": "Headless Interrupts",
+  "url": "/human-in-the-loop/headless"
  },
  {
   "section": "Interactivity",

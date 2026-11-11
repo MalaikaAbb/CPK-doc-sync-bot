@@ -1,6 +1,19 @@
 {
  "pages": {
   "/llamaindex/ag-ui": "b4a81f4b8fef821d35a9c38ce81a4de385263f926e1155b2f0a5f1b346508b20",
-  "/llamaindex/programmatic-control": "4775c0b2f1ea7551c293b03dd33cd98c8a12f9048a60c293a5f39ee380f07cfe"
+  "/llamaindex/copilot-runtime": "72196cd0410756602c1d8d07a4a68179992768e4bdd4bad6c8dbcc27ea36763d",
+  "/llamaindex/custom-look-and-feel/slots": "f3064dcaa5d51aec4ee880c460c3119c4ab5fd977928c17853363e3dfe83d1eb",
+  "/llamaindex/generative-ui/state-rendering": "4aa553f48896bb45b8631cb5c62b857d5e82d66d508310c0eaf315c981c052cc",
+  "/llamaindex/generative-ui/tool-rendering": "386c8a08080ddc54a78962489a72d07a39057c0e31dd2c13df78d32d6fdd828c",
+  "/llamaindex/inspector": "101620498b40f5cf81b824c041a0e2f02303756399cce0fe6ea9c31ca92fe93c",
+  "/llamaindex/prebuilt-components/copilot-threads-drawer": "9f8d55bf257bf242c44ff0177fb2cd635f625fc375071031e0d2d7fb4715aa14",
+  "/llamaindex/programmatic-control": "4775c0b2f1ea7551c293b03dd33cd98c8a12f9048a60c293a5f39ee380f07cfe",
+  "/llamaindex/quickstart": "d7ee674b2346956e037532a129eed5bdd74d2907c93dd14e4075c972939f2906",
+  "/llamaindex/shared-state/in-app-agent-read": "6093a74616e24261ad8b8bc30220f6b23524d9f0c09586cd2f552a6c72dfeafd",
+  "/llamaindex/shared-state/in-app-agent-write": "7e2f52d297c2b9283e0af982274943b72b98a3b4340caf276c758313f14307ef",
+  "/llamaindex/shared-state/predictive-state-updates": "8baf84cf2bf70dcc300e5d1176d3b66d015edb35ffae3fa8c77d6d1bfc7c2431",
+  "/llamaindex/shared-state/workflow-execution": "36f3778bbf23bf06e9e192fe913ce6e177c9548c771d5b99cf9dc438d5592dfa",
+  "/llamaindex/threads-import": "b673465ba5ee04112b4c034a38fbeca6f425bb1ff45443048c3c409654702304",
+  "/llamaindex/threads-lifecycle": "77122cc3d2fc3b8d4cd7dabcfaaff68156ae62d139fa19b3263ed8d528f3863c"
  }
 }

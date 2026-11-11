@@ -1,13 +1,21 @@
 {
  "pages": {
+  "/claude-sdk-typescript": "0740bffb57aeae6b923010fb9591a101fd7b1ab76285d67b3d7977e4a5335a50",
+  "/claude-sdk-typescript/custom-look-and-feel/headless-ui": "1972918ee293864c2a8172a43730ccb583bda0bbe2a7402e9bc0145b3f7edf1d",
   "/claude-sdk-typescript/custom-look-and-feel/reasoning-messages": "43ea8cc3a3e8dcb599cfe13e16aed14c12bab3ea55deeedd312ff7bbbc12ae08",
+  "/claude-sdk-typescript/custom-look-and-feel/slots": "85de18a083376fd05dcb7f42c813a491aaf47195a11860e2e99004670084fff5",
   "/claude-sdk-typescript/frontend-tools": "69f65799288d44ca1da5078937375c5e83270f7ae94739f0a2de519e9f42d6cd",
+  "/claude-sdk-typescript/generative-ui/a2ui/dynamic-schema": "27389b19da8ec3a004074ebffb0a1faf3b55c4c69245c6c506db5bb434bebdc4",
   "/claude-sdk-typescript/generative-ui/a2ui/fixed-schema": "813ba39fa8e542f2efa40f46a457db7665b0b90feccc18e6d87ca19aa6b9db8a",
   "/claude-sdk-typescript/generative-ui/reasoning": "ec267500ed7296682ba35af3cd436815faf742cb6df48c6c472d76d1d2359c5d",
   "/claude-sdk-typescript/generative-ui/tool-based": "d73a7960aef4ce545288c617b6255cdc7d96c91a92268fb64d8938750094721c",
+  "/claude-sdk-typescript/generative-ui/tool-rendering": "6567a03795af36590569c13bcaada4fbab1218c1433258e140291281ad71fcec",
   "/claude-sdk-typescript/headless-threads": "c4914c76d28b146f6cb0605b85385b964807d01c9b77ebcec3896a57ed3607af",
   "/claude-sdk-typescript/prebuilt-components/chat-controls": "e5cc5941c0aaaf1487b8be5af4e29eda60442218a3aa22cf5df6f1a6e4eb5618",
+  "/claude-sdk-typescript/prebuilt-components/copilot-threads-drawer": "ef4f6fccf0202eb207b54c7fa40a89e9809584405a8ad146736cc51cdf11ebe6",
   "/claude-sdk-typescript/programmatic-control": "35c43033cccdca408f5de07304aa0cc0f57e3cd9ca8c5fe3123445c8469bbbbd",
+  "/claude-sdk-typescript/quickstart": "0740bffb57aeae6b923010fb9591a101fd7b1ab76285d67b3d7977e4a5335a50",
+  "/claude-sdk-typescript/threads-lifecycle": "b944f736a851a882c474b7e2135dab408c923becd8c4a0beacc875322b853e53",
   "/claude-sdk-typescript/voice": "42ae117669899778f3410934ee2afe4cfc69433ad1d60b143bd01c49962dba80"
  }
 }

@@ -134,6 +134,12 @@
  {
   "section": "Generative UI",
   "folder": "Declarative/Components and surfaces",
+  "title": "Components and surfaces",
+  "url": "/google-adk/generative-ui/components"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
   "title": "Surfaces",
   "url": "/google-adk/generative-ui/components/surfaces"
  },
@@ -142,6 +148,12 @@
   "folder": "Declarative/Components and surfaces",
   "title": "Catalogs",
   "url": "/google-adk/generative-ui/components/catalogs"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Standard catalog",
+  "url": "/google-adk/generative-ui/components/standard-catalog"
  },
  {
   "section": "Generative UI",
@@ -172,6 +184,12 @@
   "folder": "Declarative/Components and surfaces",
   "title": "Adopt from A2UI",
   "url": "/google-adk/generative-ui/components/from-a2ui"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/A2UI",
+  "title": "A2UI",
+  "url": "/google-adk/generative-ui/a2ui"
  },
  {
   "section": "Generative UI",
@@ -236,6 +254,24 @@
  {
   "section": "Interactivity",
   "folder": "Human-in-the-loop",
+  "title": "HITL Overview",
+  "url": "/google-adk/human-in-the-loop/index"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Human-in-the-loop",
+  "title": "Pausing the Agent for Input",
+  "url": "/google-adk/human-in-the-loop/useInterrupt"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Human-in-the-loop",
+  "title": "Headless Interrupts",
+  "url": "/google-adk/human-in-the-loop/headless"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Human-in-the-loop",
   "title": "Governed Action Approval UI",
   "url": "/google-adk/human-in-the-loop/governed-actions"
  },
@@ -250,6 +286,12 @@
   "folder": "Google ADK",
   "title": "Agent App Context",
   "url": "/google-adk/agent-app-context"
+ },
+ {
+  "section": "Agent capabilities",
+  "folder": "Google ADK",
+  "title": "LangSmith Platform",
+  "url": "/google-adk/deploy-langsmith"
  },
  {
   "section": "Agent capabilities",

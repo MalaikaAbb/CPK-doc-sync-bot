@@ -1,3 +1,12 @@
 {
- "pages": {}
+ "pages": {
+  "/advanced-configuration": "a57d049cd318696001e9cf343794921f0c9dcc4b2a774be7c1c9acceeee8c818",
+  "/backend/agent-runner": "4fc45f53f5e40646f02c944d8c1e0ef1da15c7ba4e0c8a1573e83641e5ff443f",
+  "/backend/copilot-runtime": "29d808ee564ec958a1c484f0328d35d32580162f9889453ee726704a09a1bc27",
+  "/backend/custom-agent": "3a4772908a9fc3650cb27d09ac88b090bd507945c54ba8e2b8bbd479d0bf4076",
+  "/backend/runtime-endpoints": "92050a31834442b3e59c7f40a8f2e2a1d7a2446552c6bdcac2d60bdb001eec22",
+  "/model-selection": "4dadb920c17daa67d9516572c428621137009914e2fdbe7aab4959dba8a48ad6",
+  "/quickstart": "f3f079071d177f75acc1ab6748ce8ffd6f976ec68ae1e0bcfb2c3980a5cd4b72",
+  "/server-tools": "615cd6c98ff050c37a93e080ee90cd0255c5e8d8ff0a0e5522b617d9f0b203d0"
+ }
 }

@@ -68,6 +68,12 @@
  {
   "section": "Generative UI",
   "folder": "Controlled",
+  "title": "Components as Tools",
+  "url": "/pydantic-ai/generative-ui/tool-based"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Controlled",
   "title": "Tool Call Rendering",
   "url": "/pydantic-ai/generative-ui/tool-rendering"
  },
@@ -76,6 +82,66 @@
   "folder": "Controlled",
   "title": "State Rendering",
   "url": "/pydantic-ai/generative-ui/state-rendering"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Components and surfaces",
+  "url": "/pydantic-ai/generative-ui/components"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Surfaces",
+  "url": "/pydantic-ai/generative-ui/components/surfaces"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Catalogs",
+  "url": "/pydantic-ai/generative-ui/components/catalogs"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Standard catalog",
+  "url": "/pydantic-ai/generative-ui/components/standard-catalog"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "State and actions",
+  "url": "/pydantic-ai/generative-ui/components/state-and-actions"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Theming",
+  "url": "/pydantic-ai/generative-ui/components/theming"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Transports",
+  "url": "/pydantic-ai/generative-ui/components/transports"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Markdown mode",
+  "url": "/pydantic-ai/generative-ui/components/markdown-mode"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Adopt from A2UI",
+  "url": "/pydantic-ai/generative-ui/components/from-a2ui"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/A2UI",
+  "title": "A2UI",
+  "url": "/pydantic-ai/generative-ui/a2ui"
  },
  {
   "section": "Generative UI",
@@ -104,6 +170,12 @@
  {
   "section": "Generative UI",
   "folder": "Open-ended",
+  "title": "MCP Apps",
+  "url": "/pydantic-ai/generative-ui/mcp-apps"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Open-ended",
   "title": "Open Generative UI",
   "url": "/pydantic-ai/generative-ui/open-generative-ui"
  },
@@ -122,8 +194,32 @@
  {
   "section": "Interactivity",
   "folder": "Human-in-the-loop",
+  "title": "HITL Overview",
+  "url": "/pydantic-ai/human-in-the-loop/index"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Human-in-the-loop",
+  "title": "Pausing the Agent for Input",
+  "url": "/pydantic-ai/human-in-the-loop/useInterrupt"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Human-in-the-loop",
+  "title": "Headless Interrupts",
+  "url": "/pydantic-ai/human-in-the-loop/headless"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Human-in-the-loop",
   "title": "Governed Action Approval UI",
   "url": "/pydantic-ai/human-in-the-loop/governed-actions"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "",
+  "title": "WebMCP",
+  "url": "/pydantic-ai/webmcp"
  },
  {
   "section": "Agent capabilities",

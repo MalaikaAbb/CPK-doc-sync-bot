@@ -85,6 +85,66 @@
  },
  {
   "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Components and surfaces",
+  "url": "/ms-agent-python/generative-ui/components"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Surfaces",
+  "url": "/ms-agent-python/generative-ui/components/surfaces"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Catalogs",
+  "url": "/ms-agent-python/generative-ui/components/catalogs"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Standard catalog",
+  "url": "/ms-agent-python/generative-ui/components/standard-catalog"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "State and actions",
+  "url": "/ms-agent-python/generative-ui/components/state-and-actions"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Theming",
+  "url": "/ms-agent-python/generative-ui/components/theming"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Transports",
+  "url": "/ms-agent-python/generative-ui/components/transports"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Markdown mode",
+  "url": "/ms-agent-python/generative-ui/components/markdown-mode"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Adopt from A2UI",
+  "url": "/ms-agent-python/generative-ui/components/from-a2ui"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/A2UI",
+  "title": "A2UI",
+  "url": "/ms-agent-python/generative-ui/a2ui"
+ },
+ {
+  "section": "Generative UI",
   "folder": "Declarative/A2UI",
   "title": "Dynamic Schema A2UI",
   "url": "/ms-agent-python/generative-ui/a2ui/dynamic-schema"
@@ -110,6 +170,12 @@
  {
   "section": "Generative UI",
   "folder": "Open-ended",
+  "title": "MCP Apps",
+  "url": "/ms-agent-python/generative-ui/mcp-apps"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Open-ended",
   "title": "Open Generative UI",
   "url": "/ms-agent-python/generative-ui/open-generative-ui"
  },
@@ -128,6 +194,24 @@
  {
   "section": "Interactivity",
   "folder": "Human-in-the-loop",
+  "title": "HITL Overview",
+  "url": "/ms-agent-python/human-in-the-loop/index"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Human-in-the-loop",
+  "title": "Pausing the Agent for Input",
+  "url": "/ms-agent-python/human-in-the-loop/useInterrupt"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Human-in-the-loop",
+  "title": "Headless Interrupts",
+  "url": "/ms-agent-python/human-in-the-loop/headless"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Human-in-the-loop",
   "title": "Governed Action Approval UI",
   "url": "/ms-agent-python/human-in-the-loop/governed-actions"
  },
@@ -142,6 +226,12 @@
   "folder": "Microsoft Agent Framework",
   "title": "Authentication",
   "url": "/ms-agent-python/auth"
+ },
+ {
+  "section": "Agent capabilities",
+  "folder": "",
+  "title": "Sub-agents",
+  "url": "/ms-agent-python/multi-agent/subagents"
  },
  {
   "section": "Intelligence",

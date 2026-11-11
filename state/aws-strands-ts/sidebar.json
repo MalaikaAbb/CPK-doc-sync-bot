@@ -73,6 +73,12 @@
  },
  {
   "section": "Basics",
+  "folder": "Chat/Custom Look and Feel",
+  "title": "Reasoning Messages",
+  "url": "/strands-typescript/custom-look-and-feel/reasoning-messages"
+ },
+ {
+  "section": "Basics",
   "folder": "Chat",
   "title": "Multimodal Attachments",
   "url": "/strands-typescript/multimodal-attachments"
@@ -82,6 +88,12 @@
   "folder": "Chat",
   "title": "Voice",
   "url": "/strands-typescript/voice"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat",
+  "title": "Reasoning",
+  "url": "/strands-typescript/generative-ui/reasoning"
  },
  {
   "section": "Basics",
@@ -115,6 +127,18 @@
  },
  {
   "section": "Generative UI",
+  "folder": "Controlled",
+  "title": "State Rendering",
+  "url": "/strands-typescript/generative-ui/state-rendering"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Components and surfaces",
+  "url": "/strands-typescript/generative-ui/components"
+ },
+ {
+  "section": "Generative UI",
   "folder": "Declarative/Components and surfaces",
   "title": "Surfaces",
   "url": "/strands-typescript/generative-ui/components/surfaces"
@@ -124,6 +148,12 @@
   "folder": "Declarative/Components and surfaces",
   "title": "Catalogs",
   "url": "/strands-typescript/generative-ui/components/catalogs"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Standard catalog",
+  "url": "/strands-typescript/generative-ui/components/standard-catalog"
  },
  {
   "section": "Generative UI",
@@ -154,6 +184,12 @@
   "folder": "Declarative/Components and surfaces",
   "title": "Adopt from A2UI",
   "url": "/strands-typescript/generative-ui/components/from-a2ui"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/A2UI",
+  "title": "A2UI",
+  "url": "/strands-typescript/generative-ui/a2ui"
  },
  {
   "section": "Generative UI",
@@ -194,14 +230,32 @@
  {
   "section": "Interactivity",
   "folder": "Shared state",
+  "title": "Shared State",
+  "url": "/strands-typescript/shared-state"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Shared state",
   "title": "Render agent state in your app",
   "url": "/strands-typescript/shared-state/rendering-in-app"
  },
  {
   "section": "Interactivity",
   "folder": "Shared state",
+  "title": "State Streaming",
+  "url": "/strands-typescript/shared-state/streaming"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Shared state",
   "title": "Agent Read-Only Context",
   "url": "/strands-typescript/shared-state/agent-readonly"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Human-in-the-loop",
+  "title": "HITL Overview",
+  "url": "/strands-typescript/human-in-the-loop/index"
  },
  {
   "section": "Interactivity",
@@ -250,6 +304,30 @@
   "folder": "AWS Strands (TypeScript)",
   "title": "AG-UI",
   "url": "/strands-typescript/ag-ui"
+ },
+ {
+  "section": "Agent capabilities",
+  "folder": "AWS Strands (TypeScript)",
+  "title": "AWS AgentCore",
+  "url": "/strands-typescript/deploy-agentcore"
+ },
+ {
+  "section": "Agent capabilities",
+  "folder": "AWS Strands (TypeScript)",
+  "title": "Migrate to V2",
+  "url": "/strands-typescript/troubleshooting/migrate-to-v2"
+ },
+ {
+  "section": "Agent capabilities",
+  "folder": "AWS Strands (TypeScript)",
+  "title": "Migrate to 1.10.X",
+  "url": "/strands-typescript/troubleshooting/migrate-to-1.10.X"
+ },
+ {
+  "section": "Agent capabilities",
+  "folder": "AWS Strands (TypeScript)",
+  "title": "Migrate to 1.8.2",
+  "url": "/strands-typescript/troubleshooting/migrate-to-1.8.2"
  },
  {
   "section": "Agent capabilities",

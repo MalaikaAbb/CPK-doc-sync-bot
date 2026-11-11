@@ -1,7 +1,20 @@
 {
  "pages": {
+  "/ms-agent-python": "a3b003bee37dfae53129fc92ed6c98c57102bdbfb4d1c6a58eb87857f599a915",
   "/ms-agent-python/ag-ui": "0827892d1b68692c3156621b62991382843b912363c00fac4a4c548de4e155fb",
+  "/ms-agent-python/agent-app-context": "0fd4fc627e3423abd1fcc0cf911d80a3d1fac908eeb7c53a37591600c0cd1f69",
+  "/ms-agent-python/auth": "3d3d5abf4e32f89eccafe0912768cf9698e97b0d7c939d0daef6f7524d1cbfd3",
+  "/ms-agent-python/copilot-runtime": "570da0903cbe48b7562bd71f55419a4b1ecc2414f1a2c340875d075b65e19488",
+  "/ms-agent-python/custom-look-and-feel/slots": "f2d76272a77380afdb63553020781185f363c1f1fdc77a3aebda63c25ebe2a0e",
+  "/ms-agent-python/frontend-tools": "0b3f44d0c9f8d1e91ac0bc3b8fe84438acdaf0f05bffb7a2093d2e78ac372f59",
+  "/ms-agent-python/generative-ui/state-rendering": "6e679cdae98c1c3d683e5b5b8327afc77ba803762353c6bd7844f60d414a5933",
+  "/ms-agent-python/generative-ui/tool-rendering": "5a1286f4bc28b4fa5af037967cc9cb750872e560c082dba4ed589b0cb99aef87",
   "/ms-agent-python/headless-threads": "7ff2f8c26edba99440466bcc7fa5bb1cb5a8484894301b32c09df7c4de3a36d1",
-  "/ms-agent-python/inspector": "e1454caa6c3403c4b9a4c0890276aebb922ded32fa13a039b0d6d6a769891f6d"
+  "/ms-agent-python/inspector": "e1454caa6c3403c4b9a4c0890276aebb922ded32fa13a039b0d6d6a769891f6d",
+  "/ms-agent-python/prebuilt-components/copilot-threads-drawer": "5a3668ce6a90295522dd58a8088c2089723a5199b288a72a21d725b2db2514c3",
+  "/ms-agent-python/quickstart": "fe81cbee266361dec968f91194d1715f58b29df98d818a36c6435a473b9016ba",
+  "/ms-agent-python/shared-state/in-app-agent-read": "dcdfd7c79c552616916336a73e214dc5b3e08155cdc0182c722755eef65b6752",
+  "/ms-agent-python/shared-state/in-app-agent-write": "7f7d8b3c587fb4ed3380ebe3fa08ec48d0b65d47263009712cb94cc5641d1c7e",
+  "/ms-agent-python/threads": "dc92bbe6cafccaef80bfd687289cae93a45de77987565776c4ba1a461e8d67e3"
  }
 }
