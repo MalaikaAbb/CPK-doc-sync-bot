@@ -230,20 +230,8 @@
  {
   "section": "Interactivity",
   "folder": "Shared state",
-  "title": "Shared State",
-  "url": "/strands/shared-state"
- },
- {
-  "section": "Interactivity",
-  "folder": "Shared state",
   "title": "Render agent state in your app",
   "url": "/strands/shared-state/rendering-in-app"
- },
- {
-  "section": "Interactivity",
-  "folder": "Shared state",
-  "title": "State Streaming",
-  "url": "/strands/shared-state/streaming"
  },
  {
   "section": "Interactivity",
@@ -304,30 +292,6 @@
   "folder": "AWS Strands (Python)",
   "title": "AG-UI",
   "url": "/strands/ag-ui"
- },
- {
-  "section": "Agent capabilities",
-  "folder": "AWS Strands (Python)",
-  "title": "AWS AgentCore",
-  "url": "/strands/deploy-agentcore"
- },
- {
-  "section": "Agent capabilities",
-  "folder": "AWS Strands (Python)",
-  "title": "Migrate to V2",
-  "url": "/strands/troubleshooting/migrate-to-v2"
- },
- {
-  "section": "Agent capabilities",
-  "folder": "AWS Strands (Python)",
-  "title": "Migrate to 1.10.X",
-  "url": "/strands/troubleshooting/migrate-to-1.10.X"
- },
- {
-  "section": "Agent capabilities",
-  "folder": "AWS Strands (Python)",
-  "title": "Migrate to 1.8.2",
-  "url": "/strands/troubleshooting/migrate-to-1.8.2"
  },
  {
   "section": "Agent capabilities",
