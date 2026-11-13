@@ -3,15 +3,18 @@
   "/generative-ui/components/standard-catalog": "42fd29a3daa041eb9c0c3e5c4a659989bc81272b81e2919f48edf4a4a8c2012d",
   "/google-adk/backend/copilot-runtime": "64d9a13016a5783be73b1b061eead587246d16ab2082b715939fd94896624a4e",
   "/google-adk/custom-look-and-feel/reasoning-messages": "43ea8cc3a3e8dcb599cfe13e16aed14c12bab3ea55deeedd312ff7bbbc12ae08",
-  "/google-adk/generative-ui/a2ui/dynamic-schema": "706aaf55243fb3d837ee3628e759e2205cb024c5938004c08f48d0b5dea1eaf4",
-  "/google-adk/generative-ui/components/catalogs": "e6a9231568a7f6c7fee380a56df610e711d74d3cc3499e2957bdfd3482ceb287",
-  "/google-adk/generative-ui/components/from-a2ui": "0f6e50d1bcce037fe70e628e5560eacd122e85a296e2ac4aeb6a936b26db9355",
-  "/google-adk/generative-ui/components/markdown-mode": "7b9fe0e004a5a2d1e5992ce15a294ac7bfd7d65be5435d02c152be7883234ae1",
-  "/google-adk/generative-ui/components/state-and-actions": "58cd01d15c0c6bed1b7f35a39fea1421da930682ddea5460d567c275c1f88cd4",
-  "/google-adk/generative-ui/components/surfaces": "fcbb6b2b49efdc04f73ed7b10e324b9c3f259ddbdc3b0642adede4abeedd0683",
-  "/google-adk/generative-ui/components/theming": "9fd29e6c376088733371c5862401ba5faf8ed042dfd2ae15d2f70d844d316153",
-  "/google-adk/generative-ui/components/transports": "b06a1780d8cf4bdbd78347d834ed968b4c2d79750613ff1390d5f0cf0282f370",
+  "/google-adk/generative-ui/a2ui/dynamic-schema": "c642e9962f7ee2a65885f178bac73d7f2bc7eacd7ae165a96df819204b856cf7",
+  "/google-adk/generative-ui/a2ui/fixed-schema": "7ab933f0231bf32ff526b3c413cc94f76dfe27571db45b12e89f2d04b94581aa",
+  "/google-adk/generative-ui/components/catalogs": "b55b779e97488e736ec36fd4b6a288409523cf4e7e086c1277294b06bbcedc4c",
+  "/google-adk/generative-ui/components/from-a2ui": "3a4e9b1761eff961c0f7ede5494c070c5694958474cbcb6838dca656d2df98ac",
+  "/google-adk/generative-ui/components/markdown-mode": "6b187c392852fc3b97c91759e207ce373231a6e60bbbe9b3ec27a2c4652e5d3c",
+  "/google-adk/generative-ui/components/state-and-actions": "ff0091b72596c4eb3005ff3804b98ea2d1b91cc1af3eaae7b031d4781227ac81",
+  "/google-adk/generative-ui/components/surfaces": "4416bbc3bd630970211c21930b61cf86531181f3d49f4557fe0852047fef6a02",
+  "/google-adk/generative-ui/components/theming": "6a721a1d7282092759ead73615224980dbe3a745464d8d7b73a826db15382a6f",
+  "/google-adk/generative-ui/components/transports": "19609be526738a63ad25f59ee61cc7e990f61f711e9e10d16b492be58f8ff9ba",
   "/google-adk/generative-ui/mcp-apps": "3a4685ede68c788d93e754d33413f15308a0da23346d502cc8786469fb3f70a7",
-  "/google-adk/generative-ui/reasoning": "ec267500ed7296682ba35af3cd436815faf742cb6df48c6c472d76d1d2359c5d"
+  "/google-adk/generative-ui/reasoning": "92457cd81ee6cb58e275e007c76ae1aa20dfb7407ab95c9f3db3df7cb170f3ab",
+  "/google-adk/multi-agent/subagents": "5d6f678abbdbe96713f8677761c7b40487dcc20110e25c5b35dfb5a942f11970",
+  "/google-adk/shared-state": "fe9d72b74be863639e8b3067a6ea24f4005bbf3354f144796dd7d61180800040"
  }
 }

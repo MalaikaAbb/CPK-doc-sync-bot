@@ -133,6 +133,12 @@
  },
  {
   "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Adopt from A2UI",
+  "url": "/agno/generative-ui/components/from-a2ui"
+ },
+ {
+  "section": "Generative UI",
   "folder": "Declarative/A2UI",
   "title": "A2UI",
   "url": "/agno/generative-ui/a2ui"

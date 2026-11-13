@@ -38,12 +38,6 @@
  {
   "section": "Basics",
   "folder": "Chat/Prebuilt Components",
-  "title": "CopilotPopup",
-  "url": "/deepagents/prebuilt-components/popup"
- },
- {
-  "section": "Basics",
-  "folder": "Chat/Prebuilt Components",
   "title": "Open, close, and feedback",
   "url": "/deepagents/prebuilt-components/chat-controls"
  },
@@ -181,18 +175,6 @@
  },
  {
   "section": "Generative UI",
-  "folder": "Declarative/Components and surfaces",
-  "title": "Adopt from A2UI",
-  "url": "/deepagents/generative-ui/components/from-a2ui"
- },
- {
-  "section": "Generative UI",
-  "folder": "Declarative/A2UI",
-  "title": "A2UI",
-  "url": "/deepagents/generative-ui/a2ui"
- },
- {
-  "section": "Generative UI",
   "folder": "Declarative/A2UI",
   "title": "Dynamic Schema A2UI",
   "url": "/deepagents/generative-ui/a2ui/dynamic-schema"
@@ -211,21 +193,9 @@
  },
  {
   "section": "Generative UI",
-  "folder": "Declarative",
-  "title": "Hashbrown",
-  "url": "/deepagents/generative-ui/hashbrown"
- },
- {
-  "section": "Generative UI",
   "folder": "Open-ended",
   "title": "MCP Apps",
   "url": "/deepagents/generative-ui/mcp-apps"
- },
- {
-  "section": "Generative UI",
-  "folder": "Open-ended",
-  "title": "Open Generative UI",
-  "url": "/deepagents/generative-ui/open-generative-ui"
  },
  {
   "section": "Interactivity",

@@ -1,0 +1,16 @@
+{
+ "pages": {
+  "/ms-agent-harness-dotnet/custom-look-and-feel/headless-ui": "399d28e75c4aae3589f60a2e997d91546bedbee872170aaf2a9352a15c64c207",
+  "/ms-agent-harness-dotnet/generative-ui/a2ui/dynamic-schema": "0c143b09612e448165e01a8305d3d3802cca7b04b7bc925f2236e6fc7b4938f4",
+  "/ms-agent-harness-dotnet/generative-ui/a2ui/fixed-schema": "f6d0ee3a266544158f3ba9a7819bcf0fecb010c5dba5b7684aa7ce14b709e82e",
+  "/ms-agent-harness-dotnet/generative-ui/components/catalogs": "85c702e6c0e95598f7c1368ff5e1c4241ce2f54d6df174ca40a7ff59b41068cc",
+  "/ms-agent-harness-dotnet/generative-ui/components/from-a2ui": "203ed0a14d80b979a89bb86d1d0b6145493aba3dd6614859d70944ed8a581b41",
+  "/ms-agent-harness-dotnet/generative-ui/components/markdown-mode": "fd3260c175808cf729ab0a00002d2d0a55e81736e1902e4b355e5841c3f71ac4",
+  "/ms-agent-harness-dotnet/generative-ui/components/standard-catalog": "81c73b0ee01441ac8e929b0f351c84e6b48cecf84e68d6394d744c2d57ff7731",
+  "/ms-agent-harness-dotnet/generative-ui/components/state-and-actions": "0082c6bd72d420d029760a62c77e70b0c3f7c3d09862a2f0bca0053fd016d694",
+  "/ms-agent-harness-dotnet/generative-ui/components/surfaces": "8a884b20530c84c29a98f85947a5e81e26b57a675af4356a4b2d69d641581b41",
+  "/ms-agent-harness-dotnet/generative-ui/components/theming": "b1ee300fc29a543ff3a6a7adf16ba887f7271b9a2729e890b79454b8ed0b3993",
+  "/ms-agent-harness-dotnet/generative-ui/components/transports": "8573ef14118d5bdb4c9f791a20f5aa3d8fa9c8e4839e356615f15043f0d64c2b",
+  "/ms-agent-harness-dotnet/generative-ui/reasoning": "f420b721de160e64396ecd9ee54f84f6ec8ae39453e5e99555520857dc757cc0"
+ }
+}

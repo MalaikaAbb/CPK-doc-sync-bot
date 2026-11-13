@@ -127,12 +127,6 @@
  },
  {
   "section": "Generative UI",
-  "folder": "Controlled",
-  "title": "State Rendering",
-  "url": "/strands-typescript/generative-ui/state-rendering"
- },
- {
-  "section": "Generative UI",
   "folder": "Declarative/Components and surfaces",
   "title": "Components and surfaces",
   "url": "/strands-typescript/generative-ui/components"
@@ -184,12 +178,6 @@
   "folder": "Declarative/Components and surfaces",
   "title": "Adopt from A2UI",
   "url": "/strands-typescript/generative-ui/components/from-a2ui"
- },
- {
-  "section": "Generative UI",
-  "folder": "Declarative/A2UI",
-  "title": "A2UI",
-  "url": "/strands-typescript/generative-ui/a2ui"
  },
  {
   "section": "Generative UI",
@@ -304,30 +292,6 @@
   "folder": "AWS Strands (TypeScript)",
   "title": "AG-UI",
   "url": "/strands-typescript/ag-ui"
- },
- {
-  "section": "Agent capabilities",
-  "folder": "AWS Strands (TypeScript)",
-  "title": "AWS AgentCore",
-  "url": "/strands-typescript/deploy-agentcore"
- },
- {
-  "section": "Agent capabilities",
-  "folder": "AWS Strands (TypeScript)",
-  "title": "Migrate to V2",
-  "url": "/strands-typescript/troubleshooting/migrate-to-v2"
- },
- {
-  "section": "Agent capabilities",
-  "folder": "AWS Strands (TypeScript)",
-  "title": "Migrate to 1.10.X",
-  "url": "/strands-typescript/troubleshooting/migrate-to-1.10.X"
- },
- {
-  "section": "Agent capabilities",
-  "folder": "AWS Strands (TypeScript)",
-  "title": "Migrate to 1.8.2",
-  "url": "/strands-typescript/troubleshooting/migrate-to-1.8.2"
  },
  {
   "section": "Agent capabilities",

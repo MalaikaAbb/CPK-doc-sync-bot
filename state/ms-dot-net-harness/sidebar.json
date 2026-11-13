@@ -1,0 +1,686 @@
+[
+ {
+  "section": "Getting Started",
+  "folder": "",
+  "title": "Ms Agent Harness Dotnet",
+  "url": "/ms-agent-harness-dotnet"
+ },
+ {
+  "section": "Getting Started",
+  "folder": "",
+  "title": "Quickstart",
+  "url": "/ms-agent-harness-dotnet/quickstart"
+ },
+ {
+  "section": "Getting Started",
+  "folder": "",
+  "title": "Build With Agents",
+  "url": "/ms-agent-harness-dotnet/build-with-agents"
+ },
+ {
+  "section": "Getting Started",
+  "folder": "",
+  "title": "Overview",
+  "url": "/ms-agent-harness-dotnet/intelligence/overview"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Prebuilt Components",
+  "title": "CopilotChat",
+  "url": "/ms-agent-harness-dotnet/prebuilt-components/chat"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Prebuilt Components",
+  "title": "CopilotSidebar",
+  "url": "/ms-agent-harness-dotnet/prebuilt-components/sidebar"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Prebuilt Components",
+  "title": "CopilotPopup",
+  "url": "/ms-agent-harness-dotnet/prebuilt-components/popup"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Prebuilt Components",
+  "title": "Open, close, and feedback",
+  "url": "/ms-agent-harness-dotnet/prebuilt-components/chat-controls"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Custom Look and Feel",
+  "title": "CSS Customization",
+  "url": "/ms-agent-harness-dotnet/custom-look-and-feel/css"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Custom Look and Feel",
+  "title": "Slots (Subcomponents)",
+  "url": "/ms-agent-harness-dotnet/custom-look-and-feel/slots"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Custom Look and Feel",
+  "title": "Markdown Rendering",
+  "url": "/ms-agent-harness-dotnet/custom-look-and-feel/markdown"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Custom Look and Feel",
+  "title": "Headless UI",
+  "url": "/ms-agent-harness-dotnet/custom-look-and-feel/headless-ui"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat/Custom Look and Feel",
+  "title": "Reasoning Messages",
+  "url": "/ms-agent-harness-dotnet/custom-look-and-feel/reasoning-messages"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat",
+  "title": "Multimodal Attachments",
+  "url": "/ms-agent-harness-dotnet/multimodal-attachments"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat",
+  "title": "Voice",
+  "url": "/ms-agent-harness-dotnet/voice"
+ },
+ {
+  "section": "Basics",
+  "folder": "Chat",
+  "title": "Reasoning",
+  "url": "/ms-agent-harness-dotnet/generative-ui/reasoning"
+ },
+ {
+  "section": "Basics",
+  "folder": "Threads",
+  "title": "Threads Drawer",
+  "url": "/ms-agent-harness-dotnet/prebuilt-components/copilot-threads-drawer"
+ },
+ {
+  "section": "Basics",
+  "folder": "Threads",
+  "title": "Headless Threads",
+  "url": "/ms-agent-harness-dotnet/headless-threads"
+ },
+ {
+  "section": "Basics",
+  "folder": "",
+  "title": "Frontend-tools",
+  "url": "/ms-agent-harness-dotnet/frontend-tools"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Controlled",
+  "title": "Components as Tools",
+  "url": "/ms-agent-harness-dotnet/generative-ui/tool-based"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Controlled",
+  "title": "Tool Call Rendering",
+  "url": "/ms-agent-harness-dotnet/generative-ui/tool-rendering"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Controlled",
+  "title": "State Rendering",
+  "url": "/ms-agent-harness-dotnet/generative-ui/state-rendering"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Components and surfaces",
+  "url": "/ms-agent-harness-dotnet/generative-ui/components"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Surfaces",
+  "url": "/ms-agent-harness-dotnet/generative-ui/components/surfaces"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Catalogs",
+  "url": "/ms-agent-harness-dotnet/generative-ui/components/catalogs"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Standard catalog",
+  "url": "/ms-agent-harness-dotnet/generative-ui/components/standard-catalog"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "State and actions",
+  "url": "/ms-agent-harness-dotnet/generative-ui/components/state-and-actions"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Theming",
+  "url": "/ms-agent-harness-dotnet/generative-ui/components/theming"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Transports",
+  "url": "/ms-agent-harness-dotnet/generative-ui/components/transports"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Markdown mode",
+  "url": "/ms-agent-harness-dotnet/generative-ui/components/markdown-mode"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Adopt from A2UI",
+  "url": "/ms-agent-harness-dotnet/generative-ui/components/from-a2ui"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/A2UI",
+  "title": "A2UI",
+  "url": "/ms-agent-harness-dotnet/generative-ui/a2ui"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/A2UI",
+  "title": "Dynamic Schema A2UI",
+  "url": "/ms-agent-harness-dotnet/generative-ui/a2ui/dynamic-schema"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative/A2UI",
+  "title": "Fixed Schema A2UI",
+  "url": "/ms-agent-harness-dotnet/generative-ui/a2ui/fixed-schema"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative",
+  "title": "JSON Render",
+  "url": "/ms-agent-harness-dotnet/generative-ui/json-render"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative",
+  "title": "Hashbrown",
+  "url": "/ms-agent-harness-dotnet/generative-ui/hashbrown"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Open-ended",
+  "title": "MCP Apps",
+  "url": "/ms-agent-harness-dotnet/generative-ui/mcp-apps"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Open-ended",
+  "title": "Open Generative UI",
+  "url": "/ms-agent-harness-dotnet/generative-ui/open-generative-ui"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Shared state",
+  "title": "Shared State",
+  "url": "/ms-agent-harness-dotnet/shared-state"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Shared state",
+  "title": "Render agent state in your app",
+  "url": "/ms-agent-harness-dotnet/shared-state/rendering-in-app"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Shared state",
+  "title": "State Streaming",
+  "url": "/ms-agent-harness-dotnet/shared-state/streaming"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Shared state",
+  "title": "Agent Read-Only Context",
+  "url": "/ms-agent-harness-dotnet/shared-state/agent-readonly"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Human-in-the-loop",
+  "title": "HITL Overview",
+  "url": "/ms-agent-harness-dotnet/human-in-the-loop/index"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Human-in-the-loop",
+  "title": "Pausing the Agent for Input",
+  "url": "/ms-agent-harness-dotnet/human-in-the-loop/useInterrupt"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Human-in-the-loop",
+  "title": "Headless Interrupts",
+  "url": "/ms-agent-harness-dotnet/human-in-the-loop/headless"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "Human-in-the-loop",
+  "title": "Governed Action Approval UI",
+  "url": "/ms-agent-harness-dotnet/human-in-the-loop/governed-actions"
+ },
+ {
+  "section": "Interactivity",
+  "folder": "",
+  "title": "WebMCP",
+  "url": "/ms-agent-harness-dotnet/webmcp"
+ },
+ {
+  "section": "Agent capabilities",
+  "folder": "MS Agent Harness (.NET)/Your Components",
+  "title": "Display-only",
+  "url": "/ms-agent-harness-dotnet/generative-ui/your-components/display-only"
+ },
+ {
+  "section": "Agent capabilities",
+  "folder": "MS Agent Harness (.NET)/Your Components",
+  "title": "Interactive",
+  "url": "/ms-agent-harness-dotnet/generative-ui/your-components/interactive"
+ },
+ {
+  "section": "Agent capabilities",
+  "folder": "MS Agent Harness (.NET)/Declarative Generative UI (A2UI)",
+  "title": "Styling",
+  "url": "/ms-agent-harness-dotnet/generative-ui/a2ui/styling"
+ },
+ {
+  "section": "Agent capabilities",
+  "folder": "MS Agent Harness (.NET)/Declarative Generative UI (A2UI)",
+  "title": "Advanced",
+  "url": "/ms-agent-harness-dotnet/generative-ui/a2ui/advanced"
+ },
+ {
+  "section": "Agent capabilities",
+  "folder": "MS Agent Harness (.NET)",
+  "title": "Readables",
+  "url": "/ms-agent-harness-dotnet/agent-app-context"
+ },
+ {
+  "section": "Agent capabilities",
+  "folder": "MS Agent Harness (.NET)",
+  "title": "Copilot Runtime",
+  "url": "/ms-agent-harness-dotnet/copilot-runtime"
+ },
+ {
+  "section": "Agent capabilities",
+  "folder": "MS Agent Harness (.NET)",
+  "title": "AG-UI",
+  "url": "/ms-agent-harness-dotnet/ag-ui"
+ },
+ {
+  "section": "Agent capabilities",
+  "folder": "MS Agent Harness (.NET)/Troubleshooting Copilots",
+  "title": "Migrate to V2",
+  "url": "/ms-agent-harness-dotnet/troubleshooting/migrate-to-v2"
+ },
+ {
+  "section": "Agent capabilities",
+  "folder": "",
+  "title": "Sub-agents",
+  "url": "/ms-agent-harness-dotnet/multi-agent/subagents"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Get started",
+  "title": "Quickstart",
+  "url": "/ms-agent-harness-dotnet/intelligence/quickstart"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Get started",
+  "title": "Architecture",
+  "url": "/ms-agent-harness-dotnet/intelligence/intelligence-platform"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Get started",
+  "title": "Plans",
+  "url": "/ms-agent-harness-dotnet/intelligence/plans"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/AG-UI Streams",
+  "title": "Overview",
+  "url": "/ms-agent-harness-dotnet/AG-UI-Streams"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/AG-UI Streams",
+  "title": "Bring your own thread system",
+  "url": "/ms-agent-harness-dotnet/intelligence/bring-your-own-thread-system"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/AG-UI Streams",
+  "title": "Add to Existing Threads",
+  "url": "/ms-agent-harness-dotnet/threads-import"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/AG-UI Streams",
+  "title": "Thread & History Lifecycle",
+  "url": "/ms-agent-harness-dotnet/threads-lifecycle"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/AG-UI Streams",
+  "title": "Streams & Framework Threads",
+  "url": "/ms-agent-harness-dotnet/intelligence/threads-explained"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Automatic Learning",
+  "title": "Automatic Learning",
+  "url": "/ms-agent-harness-dotnet/learning"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Automatic Learning",
+  "title": "Skill delivery",
+  "url": "/ms-agent-harness-dotnet/intelligence/learned-skills"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features",
+  "title": "User Memories",
+  "url": "/ms-agent-harness-dotnet/intelligence/memories"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Trajectories",
+  "title": "Overview",
+  "url": "/ms-agent-harness-dotnet/intelligence/trajectories"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Trajectories",
+  "title": "Quickstart",
+  "url": "/ms-agent-harness-dotnet/intelligence/trajectories-quickstart"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Trajectories",
+  "title": "Capture interactions",
+  "url": "/ms-agent-harness-dotnet/intelligence/capture-interactions"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Trajectories",
+  "title": "Captured data",
+  "url": "/ms-agent-harness-dotnet/intelligence/captured-data"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features/Trajectories",
+  "title": "API reference",
+  "url": "/ms-agent-harness-dotnet/intelligence/trajectories-reference"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features",
+  "title": "Standalone collector",
+  "url": "/ms-agent-harness-dotnet/intelligence/standalone-collector"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features",
+  "title": "Product Analytics",
+  "url": "/ms-agent-harness-dotnet/intelligence/analytics"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Features",
+  "title": "Channels",
+  "url": "/ms-agent-harness-dotnet/intelligence/channels"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Hosting",
+  "title": "Cloud-hosted",
+  "url": "/ms-agent-harness-dotnet/intelligence/managed-intelligence-platform"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Hosting",
+  "title": "Self-hosted",
+  "url": "/ms-agent-harness-dotnet/intelligence/self-hosting"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Hosting",
+  "title": "AWS ECS/Fargate",
+  "url": "/ms-agent-harness-dotnet/intelligence/self-hosting-ecs"
+ },
+ {
+  "section": "Intelligence",
+  "folder": "Hosting",
+  "title": "Local evaluation",
+  "url": "/ms-agent-harness-dotnet/intelligence/self-hosting-local"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "Copilot Runtime",
+  "url": "/ms-agent-harness-dotnet/backend/copilot-runtime"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "Runtime HTTP endpoints",
+  "url": "/ms-agent-harness-dotnet/backend/runtime-endpoints"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "Use any model router",
+  "url": "/ms-agent-harness-dotnet/backend/custom-agent"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "Write your own AG-UI agent",
+  "url": "/ms-agent-harness-dotnet/backend/custom-ag-ui-agent"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "AgentRunner and persistence",
+  "url": "/ms-agent-harness-dotnet/backend/agent-runner"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "Message history",
+  "url": "/ms-agent-harness-dotnet/backend/message-history"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "Self-managed agents",
+  "url": "/ms-agent-harness-dotnet/backend/self-managed-agents"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "Connect AG-UI agents",
+  "url": "/ms-agent-harness-dotnet/backend/ag-ui"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "Deploy to any runtime",
+  "url": "/ms-agent-harness-dotnet/runtime-server-adapter"
+ },
+ {
+  "section": "Backend",
+  "folder": "Runtime",
+  "title": "Authentication",
+  "url": "/ms-agent-harness-dotnet/auth"
+ },
+ {
+  "section": "Backend",
+  "folder": "Deployment",
+  "title": "AWS AgentCore",
+  "url": "/ms-agent-harness-dotnet/deploy/agentcore"
+ },
+ {
+  "section": "Backend",
+  "folder": "Deployment",
+  "title": "AWS Lambda",
+  "url": "/ms-agent-harness-dotnet/deploy/aws-lambda"
+ },
+ {
+  "section": "Backend",
+  "folder": "Deployment",
+  "title": "LangSmith Platform",
+  "url": "/ms-agent-harness-dotnet/deploy/langsmith"
+ },
+ {
+  "section": "Backend",
+  "folder": "Debugging",
+  "title": "Inspector",
+  "url": "/ms-agent-harness-dotnet/inspector"
+ },
+ {
+  "section": "Backend",
+  "folder": "Debugging",
+  "title": "VS Code Extension",
+  "url": "/ms-agent-harness-dotnet/vs-code-extension"
+ },
+ {
+  "section": "Learn",
+  "folder": "Concepts",
+  "title": "Architecture",
+  "url": "/ms-agent-harness-dotnet/concepts/architecture"
+ },
+ {
+  "section": "Learn",
+  "folder": "Concepts",
+  "title": "Generative UI",
+  "url": "/ms-agent-harness-dotnet/concepts/generative-ui-overview"
+ },
+ {
+  "section": "Learn",
+  "folder": "Concepts",
+  "title": "Which Hook for Which Job",
+  "url": "/ms-agent-harness-dotnet/concepts/which-hook"
+ },
+ {
+  "section": "Learn",
+  "folder": "Concepts",
+  "title": "Open source vs Intelligence",
+  "url": "/ms-agent-harness-dotnet/concepts/oss-vs-enterprise"
+ },
+ {
+  "section": "Learn",
+  "folder": "Concepts/Agentic Protocols",
+  "title": "Overview",
+  "url": "/ms-agent-harness-dotnet/agentic-protocols"
+ },
+ {
+  "section": "Learn",
+  "folder": "Concepts/Agentic Protocols",
+  "title": "AG-UI",
+  "url": "/ms-agent-harness-dotnet/agentic-protocols/ag-ui"
+ },
+ {
+  "section": "Learn",
+  "folder": "Concepts/Agentic Protocols",
+  "title": "AG-UI Middleware",
+  "url": "/ms-agent-harness-dotnet/agentic-protocols/ag-ui-middleware"
+ },
+ {
+  "section": "Learn",
+  "folder": "Concepts/Agentic Protocols",
+  "title": "MCP",
+  "url": "/ms-agent-harness-dotnet/agentic-protocols/mcp"
+ },
+ {
+  "section": "Learn",
+  "folder": "Concepts/Agentic Protocols",
+  "title": "A2A",
+  "url": "/ms-agent-harness-dotnet/agentic-protocols/a2a"
+ },
+ {
+  "section": "Other",
+  "folder": "Contributing",
+  "title": "Code Contributions",
+  "url": "/ms-agent-harness-dotnet/contributing/code-contributions"
+ },
+ {
+  "section": "Other",
+  "folder": "Contributing",
+  "title": "Documentation Contributions",
+  "url": "/ms-agent-harness-dotnet/contributing/docs-contributions"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting",
+  "title": "Common Copilot Issues",
+  "url": "/ms-agent-harness-dotnet/troubleshooting/common-issues"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting",
+  "title": "Error message reference",
+  "url": "/ms-agent-harness-dotnet/troubleshooting/error-reference"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting",
+  "title": "Error Debugging & Observability",
+  "url": "/ms-agent-harness-dotnet/troubleshooting/error-debugging"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting",
+  "title": "Inspector and dev console",
+  "url": "/ms-agent-harness-dotnet/troubleshooting/inspector-dev-console"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting",
+  "title": "Debug Mode",
+  "url": "/ms-agent-harness-dotnet/troubleshooting/debug-mode"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting",
+  "title": "AG-UI Event Inspector",
+  "url": "/ms-agent-harness-dotnet/troubleshooting/event-inspector"
+ },
+ {
+  "section": "Other",
+  "folder": "Troubleshooting",
+  "title": "Hook Explorer",
+  "url": "/ms-agent-harness-dotnet/troubleshooting/hook-explorer"
+ },
+ {
+  "section": "Other",
+  "folder": "",
+  "title": "Open-source telemetry",
+  "url": "/ms-agent-harness-dotnet/telemetry"
+ },
+ {
+  "section": "Other",
+  "folder": "",
+  "title": "Community frameworks",
+  "url": "/ms-agent-harness-dotnet/community-frameworks"
+ }
+]

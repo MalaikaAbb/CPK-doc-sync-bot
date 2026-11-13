@@ -289,12 +289,6 @@
  },
  {
   "section": "Agent capabilities",
-  "folder": "Google ADK",
-  "title": "LangSmith Platform",
-  "url": "/google-adk/deploy-langsmith"
- },
- {
-  "section": "Agent capabilities",
   "folder": "",
   "title": "Sub-agents",
   "url": "/google-adk/multi-agent/subagents"

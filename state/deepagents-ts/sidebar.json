@@ -222,12 +222,6 @@
   "url": "/deepagents/generative-ui/mcp-apps"
  },
  {
-  "section": "Generative UI",
-  "folder": "Open-ended",
-  "title": "Open Generative UI",
-  "url": "/deepagents/generative-ui/open-generative-ui"
- },
- {
   "section": "Interactivity",
   "folder": "Shared state",
   "title": "Reading agent state",

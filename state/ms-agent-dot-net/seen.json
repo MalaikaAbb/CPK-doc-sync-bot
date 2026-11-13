@@ -1,0 +1,13 @@
+{
+ "pages": {
+  "/generative-ui/components/standard-catalog": "22931afe11151bc955fd4bf49f557f284ba74c52a5e58e863aafb9daaaee51d2",
+  "/ms-agent-dotnet/generative-ui/components/catalogs": "54129dea4caf946c06995d981c9ee80d1374e0ad6b4cc3afa5aee6706c5e80a9",
+  "/ms-agent-dotnet/generative-ui/components/from-a2ui": "0325bd3559c385bbb2f24418f73a343fbfb37164e5f3eb7427de34fe8d838649",
+  "/ms-agent-dotnet/generative-ui/components/markdown-mode": "dc980feb2ff9d336122809b5c748d2ca24dd4da96148dec0f746e57f887612f7",
+  "/ms-agent-dotnet/generative-ui/components/state-and-actions": "6db96664919c517164f9571d9351fa45900715275337b2e133edeadbe3ee13b1",
+  "/ms-agent-dotnet/generative-ui/components/surfaces": "e0912e2c1d71844221d51dab107314289737857357ab10a18639b3481ef4bea1",
+  "/ms-agent-dotnet/generative-ui/components/theming": "219472f3437430b6e49fcb1968a1d52c5265015ccd42473e06a4790f8aab5d24",
+  "/ms-agent-dotnet/generative-ui/components/transports": "dd276ee969db2629335fcbfdddf2572d6d01ec8e579c4787a7f3a3b016833d54",
+  "/ms-agent-dotnet/multi-agent/subagents": "1f568cbc03024e9474a99cdb047353b789328641371572b1cc038971995872bf"
+ }
+}

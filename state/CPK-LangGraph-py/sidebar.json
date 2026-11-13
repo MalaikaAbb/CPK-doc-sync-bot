@@ -181,6 +181,12 @@
  },
  {
   "section": "Generative UI",
+  "folder": "Declarative/Components and surfaces",
+  "title": "Adopt from A2UI",
+  "url": "/langgraph-python/generative-ui/components/from-a2ui"
+ },
+ {
+  "section": "Generative UI",
   "folder": "Declarative/A2UI",
   "title": "A2UI",
   "url": "/langgraph-python/generative-ui/a2ui"
@@ -214,6 +220,12 @@
   "folder": "Open-ended",
   "title": "MCP Apps",
   "url": "/langgraph-python/generative-ui/mcp-apps"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Open-ended",
+  "title": "Open Generative UI",
+  "url": "/langgraph-python/generative-ui/open-generative-ui"
  },
  {
   "section": "Interactivity",

@@ -205,9 +205,27 @@
  },
  {
   "section": "Generative UI",
+  "folder": "Declarative",
+  "title": "JSON Render",
+  "url": "/langgraph-typescript/generative-ui/json-render"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Declarative",
+  "title": "Hashbrown",
+  "url": "/langgraph-typescript/generative-ui/hashbrown"
+ },
+ {
+  "section": "Generative UI",
   "folder": "Open-ended",
   "title": "MCP Apps",
   "url": "/langgraph-typescript/generative-ui/mcp-apps"
+ },
+ {
+  "section": "Generative UI",
+  "folder": "Open-ended",
+  "title": "Open Generative UI",
+  "url": "/langgraph-typescript/generative-ui/open-generative-ui"
  },
  {
   "section": "Interactivity",

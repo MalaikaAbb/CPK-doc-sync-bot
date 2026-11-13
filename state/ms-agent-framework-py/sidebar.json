@@ -194,24 +194,6 @@
  {
   "section": "Interactivity",
   "folder": "Human-in-the-loop",
-  "title": "HITL Overview",
-  "url": "/ms-agent-python/human-in-the-loop/index"
- },
- {
-  "section": "Interactivity",
-  "folder": "Human-in-the-loop",
-  "title": "Pausing the Agent for Input",
-  "url": "/ms-agent-python/human-in-the-loop/useInterrupt"
- },
- {
-  "section": "Interactivity",
-  "folder": "Human-in-the-loop",
-  "title": "Headless Interrupts",
-  "url": "/ms-agent-python/human-in-the-loop/headless"
- },
- {
-  "section": "Interactivity",
-  "folder": "Human-in-the-loop",
   "title": "Governed Action Approval UI",
   "url": "/ms-agent-python/human-in-the-loop/governed-actions"
  },
